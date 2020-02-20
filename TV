@@ -1,76 +1,87 @@
+#EXTM3U
 #EXTINF:-1 group-title="Movies",Movies 2
 http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Live sky 2
 http://27.254.149.109:8081/live/movie3.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movies",UP Movies
 http://27.254.149.109:8081/live/upmovie.stream/playlist.m3u8
-#EXTINF:-1, group-title="Movies",Trill
+#EXTINF:-1 group-title="Movies",Trill
 http://iliketot.dyndns.tv/c316ed9333e54442b25077f0bb3cc269.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAxOCAzOjMyOjEyIEFNJmhhc2hfdmFsdWU9ek5zQWd0TmZmbHFvQXZZYTNoYlo5UT09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDR8OTExfGlwdHZoZXJvfDE1MzkzMTUxMzJ8MS40Ni45OS4xNDk=
 #EXTINF:-1 group-title="Movies",True Movie Hits
 http://ktu.ktuiptvapp.com/livetv1/ktuiptv-30049.m3u8
 #EXTINF:-1 group-title="Movies",True thaifilm
 http://ktu.ktuiptvapp.com/livetv1/ktuiptv-30001.m3u8
+#EXTINF:-1 group-title="Movies",Cartoon club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media.m3u8
+#EXTINF:-1 group-title="Movies",STAR MOVIES
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 
-#EXTINF:-1, group-title="Sport",Premiere Football HD1
+#EXTINF:-1 group-title="Digital TV",TNN 24
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/tnn24.smil/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV",Nation
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/nation.smil/playlist.m3u8?
+#EXTINF:-1 group-title="Digital TV",Workpoint tv
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/workpointtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV",True4u
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/true4u.smil/playlist.m3u8?
+#EXTINF:-1 group-title="Digital TV",Gmm channel
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/gmmchannel.smil/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV",CH8
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/ch8.smil/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV",MONO Plus
+https://edge4-bkk.3bb.co.th:9443/MonoPlus_LiveHLS/monoplusLive_HLS720p.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Digital TV",MONO 29
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mono29.smil/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV",Mcot HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/mcothd.smil/playlist.m3u8?
+#EXTINF:-1 group-title="Digital TV",ONE
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/onehd.smil/playlist.m3u8?
+#EXTINF:-1 group-title="Digital TV",Thairat TV
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/dtv32_thairahttvhd/playlist.m3u8?
+#EXTINF:-1 group-title="Digital TV",3HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/3hd.smil/playlist.m3u8?
+#EXTINF:-1 group-title="Digital TV",AMARIN
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/amarinhd.smil/playlist.m3u8?
+#EXTINF:-1 group-title="Digital TV",7HD
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/7hd.smil/playlist.m3u8?
+#EXTINF:-1 group-title="Digital TV",PPTV
+http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/pptvhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Digital TV",Workpoint tv
+http://122.155.205.9/live/workpoint.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Sport",WWE Network
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 group-title="Sport",Premiere Football HD1
 http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
-#EXTINF:-1, group-title="Sport",Premiere Football HD2
+#EXTINF:-1 group-title="Sport",Premiere Football HD2
 http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
-#EXTINF:-1, group-title="Sport",Premiere Football HD3
+#EXTINF:-1 group-title="Sport",Premiere Football HD3
 http://103.208.24.234:1935/thaisport/epl-3.stream/playlist.m3u8
-#EXTINF:-1, group-title="Sport",Premiere Football HD4
+#EXTINF:-1 group-title="Sport",Premiere Football HD4
 http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
-#EXTINF:-1, group-title="Sport",Premiere Football HD5
+#EXTINF:-1 group-title="Sport",Premiere Football HD5
 http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
 
-#EXTINF:-1, group-title="Sport",Premiere Football HD1-1
-https://160.119.77.48:443/iptv/epl-1.stream/playlist.m3u8
-#EXTINF:-1, group-title="Sport",Premiere Football HD2-1
-https://160.119.77.48:443/iptv/epl-2.stream/playlist.m3u8
-#EXTINF:-1, group-title="Sport",Premiere Football HD3-1
-https://160.119.77.48:443/iptv/epl-3.stream/playlist.m3u8
-#EXTINF:-1, group-title="Sport",Premiere Football HD4-1
-https://160.119.77.48:443/iptv/epl-4.stream/playlist.m3u8
-#EXTINF:-1, group-title="Sport",Premiere Football HD5-1
-https://160.119.77.48:443/iptv/epl-5.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sport",Bein 2
+https://ktu.ktuiptvapp.com/livetv1/ktuiptv-30048.m3u8
 
-#EXTINF:-1, group-title="Sport",Bein 1
-https://160.119.77.48/iptv/epl-bein1.stream/playlist.m3u8
-#EXTINF:-1, group-title="Sport",Bein 1
-https://43.228.85.11:443/live/bein1/chunks.m3u8
-#EXTINF:-1, group-title="Sport",Bein 2
-http://ktu.ktuiptvapp.com/livetv1/ktuiptv-30048.m3u8
-#EXTINF:-1, group-title="Sport",Bein 2
-https://43.228.85.11:443/live/bein2/chunks.m3u8
-#EXTINF:-1, group-title="Sport",Bein 1
-https://160.119.77.48/iptv/hd-bein1.stream/playlist.m3u8
-#EXTINF:-1, group-title="Sport",Bein 2
-https://160.119.77.48/iptv/hd-bein2.stream/playlist.m3u8
-#EXTINF:-1, group-title="Sport",Bein 3
-https://160.119.77.48/iptv/hd-bein3.stream/playlist.m3u8
-#EXTINF:-1, group-title="Sport",Bein 4
-https://160.119.77.48/iptv/hd-bein4.stream/playlist.m3u8
-#EXTINF:-1, group-title="Sport",Bein 6
-https://160.119.77.48/iptv/hd-bein6.stream/playlist.m3u8
-#EXTINF:-1, group-title="Sport",Bein 7
-https://160.119.77.48/iptv/hd-bein7.stream/playlist.m3u8
-#EXTINF:-1, group-title="Sport",Bein 8
-https://160.119.77.48/iptv/hd-bein8.stream/playlist.m3u8
-
-#EXTINF:-1, group-title="Sport",TrueSport 2
+#EXTINF:-1 group-title="Sport",TrueSport 2
 http://103.208.24.234:1935/thaisport/sd-tsport2.stream/chunklist.m3u8
-#EXTINF:-1, group-title="Sport",TrueSport 5
+#EXTINF:-1 group-title="Sport",TrueSport 5
 http://103.208.24.234:1935/thaisport/sd-tsport5.stream/chunklist.m3u8
-#EXTINF:-1, group-title="Sport",TrueSport 6
+#EXTINF:-1 group-title="Sport",TrueSport 6
 http://103.208.24.234:1935/thaisport/sd-tsport6.stream/chunklist.m3u8
-#EXTINF:-1, group-title="Sport",TrueSport 7
+#EXTINF:-1 group-title="Sport",TrueSport 7
 http://103.208.24.234:1935/thaisport/sd-tsport7.stream/chunklist.m3u8
-#EXTINF:-1, group-title="Sport",TrueSport HD1
+#EXTINF:-1 group-title="Sport",TrueSport HD1
 http://103.208.24.234:1935/thaisport/hd-tsport1.stream/chunklist.m3u8
-#EXTINF:-1, group-title="Sport",TrueSport HD2
+#EXTINF:-1 group-title="Sport",TrueSport HD2
 http://103.208.24.234:1935/thaisport/hd-tsport2.stream/chunklist.m3u8
-#EXTINF:-1, group-title="Sport",TrueSport HD3
+#EXTINF:-1 group-title="Sport",TrueSport HD3
 http://103.208.24.234:1935/thaisport/hd-tsport3.stream/chunklist.m3u8
-#EXTINF:-1, group-title="Sport",TrueSport HD4
+#EXTINF:-1 group-title="Sport",TrueSport HD4
 http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="18+",Big Ass (18+)
@@ -105,93 +116,93 @@ http://live.redtraffic.xyz/pov.m3u8
 http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:-1 group-title="18+",Teen HD 720 (18+)
 http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1, group-title="18+",RedTraffic Big Ass HD
+#EXTINF:-1 group-title="18+",RedTraffic Big Ass HD
 http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:-1, group-title="18+",RedTraffic Big Dick HD
+#EXTINF:-1 group-title="18+",RedTraffic Big Dick HD
 http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1, group-title="18+",RedTraffic Big Tits HD
+#EXTINF:-1 group-title="18+",RedTraffic Big Tits HD
 http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1, group-title="18+",RedTraffic Blowjob HD
+#EXTINF:-1 group-title="18+",RedTraffic Blowjob HD
 http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1, group-title="18+",RedTraffic Cuckold HD
+#EXTINF:-1 group-title="18+",RedTraffic Cuckold HD
 http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1, group-title="18+",RedTraffic Fetish HD
+#EXTINF:-1 group-title="18+",RedTraffic Fetish HD
 http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1, group-title="18+",RedTraffic Hardcore HD
+#EXTINF:-1 group-title="18+",RedTraffic Hardcore HD
 http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:-1, group-title="18+",RedTraffic Interracial HD
+#EXTINF:-1 group-title="18+",RedTraffic Interracial HD
 http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1, group-title="18+",RedTraffic Latina HD
+#EXTINF:-1 group-title="18+",RedTraffic Latina HD
 http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1, group-title="18+",RedTraffic Lesbian HD
+#EXTINF:-1 group-title="18+",RedTraffic Lesbian HD
 http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:-1, group-title="18+",RedTraffic MILF HD
+#EXTINF:-1 group-title="18+",RedTraffic MILF HD
 http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1, group-title="18+",RedTraffic Pornstar HD
+#EXTINF:-1 group-title="18+",RedTraffic Pornstar HD
 http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1, group-title="18+",RedTraffic POV HD
+#EXTINF:-1 group-title="18+",RedTraffic POV HD
 http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1, group-title="18+",RedTraffic Russian HD
+#EXTINF:-1 group-title="18+",RedTraffic Russian HD
 http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1, group-title="18+",RedTraffic Teen HD
+#EXTINF:-1 group-title="18+",RedTraffic Teen HD
 http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1, group-title="18+",RedTraffic Threesome HD
+#EXTINF:-1 group-title="18+",RedTraffic Threesome HD
 http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1, group-title="18+",Jasmin HD
+#EXTINF:-1 group-title="18+",Jasmin HD
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1, group-title="18+",Jasmin TV
+#EXTINF:-1 group-title="18+",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1, group-title="18+",AST01
+#EXTINF:-1 group-title="18+",AST01
 https://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1, group-title="18+",AST02
+#EXTINF:-1 group-title="18+",AST02
 https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1, group-title="18+",AST03
+#EXTINF:-1 group-title="18+",AST03
 https://www.ast.tv/stream/2/cellular.m3u8
-#EXTINF:-1, group-title="18+",AST04
+#EXTINF:-1 group-title="18+",AST04
 https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1, group-title="18+",Anal
+#EXTINF:-1 group-title="18+",Anal
 http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1, group-title="18+",Big Ass
+#EXTINF:-1 group-title="18+",Big Ass
 http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1, group-title="18+",Big Dick
+#EXTINF:-1 group-title="18+",Big Dick
 http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1, group-title="18+",Big Tits
+#EXTINF:-1 group-title="18+",Big Tits
 http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1, group-title="18+",Blonde
+#EXTINF:-1 group-title="18+",Blonde
 http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1, group-title="18+",Blowjob
+#EXTINF:-1 group-title="18+",Blowjob
 http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1, group-title="18+",Brunette
+#EXTINF:-1 group-title="18+",Brunette
 http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1, group-title="18+",Compilation
+#EXTINF:-1 group-title="18+",Compilation
 http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1, group-title="18+",Cuckold
+#EXTINF:-1 group-title="18+",Cuckold
 http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1, group-title="18+",Fetish
+#EXTINF:-1 group-title="18+",Fetish
 http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1, group-title="18+",Gangbang
+#EXTINF:-1 group-title="18+",Gangbang
 http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1, group-title="18+",Gay
+#EXTINF:-1 group-title="18+",Gay
 http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1, group-title="18+",Hardcore
+#EXTINF:-1 group-title="18+",Hardcore
 http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1, group-title="18+",Interracial
+#EXTINF:-1 group-title="18+",Interracial
 http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1, group-title="18+",Latina
+#EXTINF:-1 group-title="18+",Latina
 http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1, group-title="18+",Lesbian
+#EXTINF:-1 group-title="18+",Lesbian
 http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1, group-title="18+",MILF
+#EXTINF:-1 group-title="18+",MILF
 http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1, group-title="18+",Pornstar
+#EXTINF:-1 group-title="18+",Pornstar
 http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1, group-title="18+",POV
+#EXTINF:-1 group-title="18+",POV
 http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1, group-title="18+",Rough
+#EXTINF:-1 group-title="18+",Rough
 http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1, group-title="18+",Russian
+#EXTINF:-1 group-title="18+",Russian
 http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1, group-title="18+",Teen
+#EXTINF:-1 group-title="18+",Teen
 http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1, group-title="18+",Threesome
+#EXTINF:-1 group-title="18+",Threesome
 http://cdn.adultiptv.net/threesome.m3u8
