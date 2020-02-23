@@ -104,15 +104,15 @@ http://122.155.205.9/live/workpoint.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport",WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 
-#EXTINF:1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1
+#EXTINF:-1 group-title="Sport",Premiere Football HD1
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist2.m3u8
-#EXTINF:1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2
+#EXTINF:-1 group-title="Sport",Premiere Football HD2
 https://www.livedoomovies.com/02_PremierHD2_720p/chunklist2.m3u8
-#EXTINF:1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInSport 3
+#EXTINF:-1 group-title="Sport",Premiere Football HD3
 https://www.livedoomovies.com/02_PremierHD3_720p/chunklist2.m3u8
-#EXTINF:1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/114.png",BeInSport 4
+#EXTINF:-1 group-title="Sport",Premiere Football HD4
 https://www.livedoomovies.com/02_PremierHD4_720p/chunklist2.m3u8
-#EXTINF:1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/115.png",BeInSport 5
+#EXTINF:-1 group-title="Sport",Premiere Football HD5
 https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sport",Premiere Football HD1
@@ -126,17 +126,17 @@ http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport",Premiere Football HD5
 http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Sport",Bein 1
+#EXTINF:1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1
 https://www.livedoomovies.com/02_epl1_720p/chunklist2.m3u8
-#EXTINF:-1 group-title="Sport",Bein 1
+#EXTINF:1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1
 https://160.119.77.48/iptv/epl-bein1.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sport",Bein 1
+#EXTINF:1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1
 https://43.228.85.11:443/live/bein1/chunks.m3u8
-#EXTINF:-1 group-title="Sport",Bein 2
+#EXTINF:1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2
 https://www.livedoomovies.com/02_epl2_720p/chunklist2.m3u8
-#EXTINF:-1 group-title="Sport",Bein 2
+#EXTINF:1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2
 https://ktu.ktuiptvapp.com/livetv1/ktuiptv-30048.m3u8
-#EXTINF:-1 group-title="Sport",Bein 2
+#EXTINF:1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2
 https://43.228.85.11:443/live/bein2/chunks.m3u8
 
 #EXTINF:-1 group-title="Sport",TrueSport 2
