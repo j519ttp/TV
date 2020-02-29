@@ -156,6 +156,23 @@ http://skdn.redi-vo.com/iptv/ch8118?code=103131497823984&key=39883
 #EXTINF:0 group-title="บอลต่างประเทศ"tvg-logo="http://logo.ddnb.tn/logochanel/510.png",BeInSport 9 HD
 http://skdn.redi-vo.com/iptv/ch510?code=103131497823984&key=27398
 
+#EXTINF:-1 group-title="บอลต่างประเทศ",SKYNET SPORTS 1
+http://202.183.247.206:9981/stream/channelid/1015761856?ticket=D41FFD74B40A950B68E01280C753604FC2CC6DDD&profile=pass
+#EXTINF:-1 group-title="บอลต่างประเทศ"SKYNET SPORTS 2
+http://202.183.247.206:9981/stream/channelid/546990357?ticket=8BA63512ABDFA7387E3DFCDE69CB7583689950FC&profile=pass
+#EXTINF:-1 group-title="บอลต่างประเทศ",SKYNET SPORTS 3
+http://202.183.247.206:9981/stream/channelid/298311909?ticket=A7E1B178319347B0932F5C05716CB129C8EE7241&profile=pass
+#EXTINF:-1 group-title="บอลต่างประเทศ",SKYNET SPORTS 4
+http://202.183.247.206:9981/stream/channelid/2037822099?ticket=EB96F0DAF40E3723A1A465BB1391DCA36FB4D26A&profile=pass
+#EXTINF:-1 group-title="บอลต่างประเทศ",SKYNET SPORTS 5
+http://202.183.247.206:9981/stream/channelid/1011251771?ticket=BD610E3274E9B6DB0C446CC8533022C31D37A76E&profile=pass
+#EXTINF:-1 group-title="บอลต่างประเทศ",SKYNET SPORTS 6
+http://202.183.247.206:9981/stream/channelid/1392129078?ticket=5BE23EA4AE9F957567BC73EFF272FA72DBAE92E9&profile=pass
+#EXTINF:-1 group-title="บอลต่างประเทศ",SKYNET SPORTS HD
+http://202.183.247.206:9981/stream/channelid/1344798345?ticket=2E80FD216798AF798987794BAA73FF18909F9780&profile=pass
+#EXTINF:-1 group-title="บอลต่างประเทศ",SKYNET SPORTS PLUS
+http://202.183.247.206:9981/stream/channelid/1918758571?ticket=55723BAD5750E1E165BC3EC3891F5A05829D6BE0&profile=pass
+
 ########################################################
 
 #EXTINF:-1 group-title="จาก TOTiptv",CH3 HD
