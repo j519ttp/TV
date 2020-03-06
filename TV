@@ -2,10 +2,8 @@
 
 #EXTINF:-1 group-title="Movies",FoxActionHD
 https://www.livedoomovies.com/02_FoxActionHD_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Movies",TrueFilmHD1
-https://www.livedoomovies.com/02_TrueFilmHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Movies",TrueFilmHD2
-https://www.livedoomovies.com/02_TrueFilmHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movies",TrueFilmHD
+https://doofree88.com/streaming/hd-tfilm_720/index.m3u8?
 #EXTINF:-1 group-title="Movies",Movies 2
 http://27.254.149.109:8081/live/movie2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Live sky 2
@@ -22,6 +20,8 @@ http://ktu.ktuiptvapp.com/livetv1/ktuiptv-30001.m3u8
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media.m3u8
 #EXTINF:-1 group-title="Movies",STAR MOVIES
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1 group-title="Movies",Paramount CHANNEL
+http://leechfreetv.ddnslive.com:8081/freelive-edge/_definst_/paramountchannel/playlist.m3u8
 
 #EXTINF:-1 group-title="Digital TV",TNN 24
 http://livefreebl-1.ddns.net:8081/freelive-edge/_definst_/tnn24.smil/playlist.m3u8
@@ -82,19 +82,6 @@ http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sport",Premiere Football HD5
 http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
 
-#EXTINF:1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1
-https://www.livedoomovies.com/02_epl1_720p/chunklist2.m3u8
-#EXTINF:1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1
-https://160.119.77.48/iptv/epl-bein1.stream/playlist.m3u8
-#EXTINF:1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1
-https://43.228.85.11:443/live/bein1/chunks.m3u8
-#EXTINF:1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2
-https://www.livedoomovies.com/02_epl2_720p/chunklist2.m3u8
-#EXTINF:1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2
-https://ktu.ktuiptvapp.com/livetv1/ktuiptv-30048.m3u8
-#EXTINF:1 group-title="Sport"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2
-https://43.228.85.11:443/live/bein2/chunks.m3u8
-
 #EXTINF:-1 group-title="Sport",TrueSport 2
 http://103.208.24.234:1935/thaisport/sd-tsport2.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Sport",TrueSport 5
@@ -112,66 +99,76 @@ http://103.208.24.234:1935/thaisport/hd-tsport3.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Sport",TrueSport HD4
 http://103.208.24.234:1935/thaisport/hd-tsport4.stream/chunklist.m3u8
 
-#บอลต่างประเทศ
-#EXTINF:-1 group-title="บอลต่างประเทศ"tvg-logo="http://logo.ddnb.tn/logochanel/1223.png",Real Madrid CH.
-http://skdn.redi-vo.com/iptv/ch1223?code=1701273726237058&key=47675
-#EXTINF:-1 group-title="บอลต่างประเทศ"tvg-logo="http://logo.ddnb.tn/logochanel/1225.png",Barca Tv
-http://skdn.redi-vo.com/iptv/ch1225?code=1701273726237058&key=64018
-#EXTINF:-1 group-title="บอลต่างประเทศ"tvg-logo="http://logo.ddnb.tn/logochanel/110.png",Bein Sports News
-http://skdn.redi-vo.com/iptv/ch110?code=103131497823984&key=44880
-#EXTINF:-1 group-title="บอลต่างประเทศ"tvg-logo="http://logo.ddnb.tn/logochanel/400.png",Bein Sport
-http://skdn.redi-vo.com/iptv/ch400?code=103131497823984&key=63718
-#EXTINF:-1 group-title="บอลต่างประเทศ"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1 HD
-http://skdn.redi-vo.com/iptv/ch111?code=103131497823984&key=54576
-#EXTINF:-1 group-title="บอลต่างประเทศ"tvg-logo="http://logo.ddnb.tn/logochanel/8111.png",BeInSport 1 SD
-http://skdn.redi-vo.com/iptv/ch8111?code=103131497823984&key=33281
-#EXTINF:-1 group-title="บอลต่างประเทศ"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2 HD
-http://skdn.redi-vo.com/iptv/ch112?code=103131497823984&key=46098
-#EXTINF:-1 group-title="บอลต่างประเทศ"tvg-logo="http://logo.ddnb.tn/logochanel/8112.png",BeInSport 2 SD
-http://skdn.redi-vo.com/iptv/ch8112?code=103131497823984&key=12334
-#EXTINF:-1 group-title="บอลต่างประเทศ"tvg-logo="http://logo.ddnb.tn/logochanel/113.png",BeInSport 3 HD
-http://skdn.redi-vo.com/iptv/ch113?code=103131497823984&key=39255
-#EXTINF:-1 group-title="บอลต่างประเทศ"tvg-logo="http://logo.ddnb.tn/logochanel/8113.png",BeInSport 3 SD
-http://skdn.redi-vo.com/iptv/ch8113?code=103131497823984&key=46519
-#EXTINF:-1 group-title="บอลต่างประเทศ"tvg-logo="http://logo.ddnb.tn/logochanel/114.png",BeInSport 4 HD
-http://skdn.redi-vo.com/iptv/ch114?code=103131497823984&key=46165
-#EXTINF:-1 group-title="บอลต่างประเทศ"tvg-logo="http://logo.ddnb.tn/logochanel/8114.png",BeInSport 4 SD
-http://skdn.redi-vo.com/iptv/ch8114?code=103131497823984&key=40487
-#EXTINF:-1 group-title="บอลต่างประเทศ"tvg-logo="http://logo.ddnb.tn/logochanel/115.png",BeInSport 5 HD
-http://skdn.redi-vo.com/iptv/ch115?code=103131497823984&key=45992
-#EXTINF:-1 group-title="บอลต่างประเทศ"tvg-logo="http://logo.ddnb.tn/logochanel/8115.png",BeInSport 5 SD
-http://skdn.redi-vo.com/iptv/ch8115?code=103131497823984&key=26611
-#EXTINF:-1 group-title="บอลต่างประเทศ"tvg-logo="http://logo.ddnb.tn/logochanel/116.png",BeInSport 6 HD
-http://skdn.redi-vo.com/iptv/ch116?code=103131497823984&key=57392
-#EXTINF:-1 group-title="บอลต่างประเทศ"tvg-logo="http://logo.ddnb.tn/logochanel/8116.png",BeInSport 6 SD
-http://skdn.redi-vo.com/iptv/ch8116?code=103131497823984&key=29929
-#EXTINF:-1 group-title="บอลต่างประเทศ"tvg-logo="http://logo.ddnb.tn/logochanel/117.png",BeInSport 7 HD
-http://skdn.redi-vo.com/iptv/ch117?code=103131497823984&key=58844
-#EXTINF:-1 group-title="บอลต่างประเทศ"tvg-logo="http://logo.ddnb.tn/logochanel/8117.png",BeInSport 7 SD
-http://skdn.redi-vo.com/iptv/ch8117?code=103131497823984&key=24135
-#EXTINF:-1 group-title="บอลต่างประเทศ"tvg-logo="http://logo.ddnb.tn/logochanel/118.png",BeInSport 8 HD
-http://skdn.redi-vo.com/iptv/ch118?code=103131497823984&key=43336
-#EXTINF:-1 group-title="บอลต่างประเทศ"tvg-logo="http://logo.ddnb.tn/logochanel/8118.png",BeInSport 8 SD
-http://skdn.redi-vo.com/iptv/ch8118?code=103131497823984&key=39883
-#EXTINF:-1 group-title="บอลต่างประเทศ"tvg-logo="http://logo.ddnb.tn/logochanel/510.png",BeInSport 9 HD
-http://skdn.redi-vo.com/iptv/ch510?code=103131497823984&key=27398
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",FOXSPORTHD1
+http://103.208.24.234:1935/thaisport/hd-foxsports1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-foxsports2.png",FOXSPORT2
+http://103.208.24.234:1935/thaisport/sd-foxsports2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/sd-foxsports3.png",FOXSPORT3
+http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sport",SMM TV
+http://iliketot.dyndns.tv/48cac6380caf4f078eafccc63804ac23.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
+#EXTINF:-1 group-title="Sport",T Sports Channel
+http://iliketot.dyndns.tv/3ee1e656d6ae417a914743328d44f20f.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
+#EXTINF:-1 group-title="Sport",Fox Sport 2 (TH)
+http://iliketot.dyndns.tv/1fd48f2cd616439ca4162478e572d681.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
+#EXTINF:-1 group-title="Sport",Fox Sport 2 (EN)
+http://iliketot.dyndns.tv/02cb79ab0b0c418f847148ca9e2baed4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
+#EXTINF:-1 group-title="Sport",Fox Sport 3 (TH)
+http://iliketot.dyndns.tv/b254601a75724ad79e2633f3d307e331.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
+#EXTINF:-1 group-title="Sport",Fox Sport 3 (EN)
+http://iliketot.dyndns.tv/443ea6ef1768462aaffdff38ce2a4355.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 
 #EXTINF:-1 group-title="บอลต่างประเทศ",SKYNET SPORTS 1
-http://202.183.247.206:9981/stream/channelid/1015761856?ticket=D41FFD74B40A950B68E01280C753604FC2CC6DDD&profile=pass
+http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
 #EXTINF:-1 group-title="บอลต่างประเทศ"SKYNET SPORTS 2
-http://202.183.247.206:9981/stream/channelid/546990357?ticket=8BA63512ABDFA7387E3DFCDE69CB7583689950FC&profile=pass
+http://27.254.149.109:8081/tumlive/SKYNET2/playlist.m3u8
 #EXTINF:-1 group-title="บอลต่างประเทศ",SKYNET SPORTS 3
-http://202.183.247.206:9981/stream/channelid/298311909?ticket=A7E1B178319347B0932F5C05716CB129C8EE7241&profile=pass
+http://27.254.149.109:8081/tumlive/SKYNET3/playlist.m3u8
 #EXTINF:-1 group-title="บอลต่างประเทศ",SKYNET SPORTS 4
-http://202.183.247.206:9981/stream/channelid/2037822099?ticket=EB96F0DAF40E3723A1A465BB1391DCA36FB4D26A&profile=pass
+http://27.254.149.109:8081/tumlive/SKYNET4/chunks.m3u8
 #EXTINF:-1 group-title="บอลต่างประเทศ",SKYNET SPORTS 5
-http://202.183.247.206:9981/stream/channelid/1011251771?ticket=BD610E3274E9B6DB0C446CC8533022C31D37A76E&profile=pass
+http://27.254.149.109:8081/tumlive/SKYNET5/chunks.m3u8
 #EXTINF:-1 group-title="บอลต่างประเทศ",SKYNET SPORTS 6
-http://202.183.247.206:9981/stream/channelid/1392129078?ticket=5BE23EA4AE9F957567BC73EFF272FA72DBAE92E9&profile=pass
+http://27.254.149.109:8081/tumlive/SKYNET6/chunks.m3u8
 #EXTINF:-1 group-title="บอลต่างประเทศ",SKYNET SPORTS HD
-http://202.183.247.206:9981/stream/channelid/1344798345?ticket=2E80FD216798AF798987794BAA73FF18909F9780&profile=pass
-#EXTINF:-1 group-title="บอลต่างประเทศ",SKYNET SPORTS PLUS
-http://202.183.247.206:9981/stream/channelid/1918758571?ticket=55723BAD5750E1E165BC3EC3891F5A05829D6BE0&profile=pass
+https://tumlive109.dvrdns.org:30443/tumlive/SKYNETHD/playlist.m3u8
+#EXTINF:-1 group-title="บอลต่างประเทศ",ARENA SPORT 1
+http://185.180.12.34:8080/ARENA1HR/index.m3u8
+#EXTINF:-1 group-title="บอลต่างประเทศ",ARENA SPORT 2
+http://185.180.12.34:8080/ARENA2HR/index.m3u8
+#EXTINF:-1 group-title="บอลต่างประเทศ",ARENA SPORT 3
+http://185.180.12.34:8080/ARENA3HR/index.m3u8
+#EXTINF:-1 group-title="บอลต่างประเทศ",ARENA SPORT 4
+http://185.180.12.34:8080/ARENA4HR/index.m3u8
+#EXTINF:-1 group-title="บอลต่างประเทศ",Sony Six
+https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
+#EXTINF:-1 group-title="บอลต่างประเทศ",Sony Ten 1
+https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
+#EXTINF:-1 group-title="บอลต่างประเทศ",Sony Ten 2
+https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
+#EXTINF:-1 group-title="บอลต่างประเทศ",Sony Ten 3
+https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
+#EXTINF:-1 group-title="บอลต่างประเทศ",Sony ESPN
+https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
+#EXTINF:-1 group-title="บอลต่างประเทศ",BEIN SPORT 1
+http://51.15.8.16:8081/arbiarb/beinsports1/chunks.m3u8?
+#EXTINF:-1 group-title="บอลต่างประเทศ",BEIN SPORT 2
+http://51.15.8.16:8081/arbiarb/beinsports2/chunks.m3u8?
+#EXTINF:-1 group-title="บอลต่างประเทศ",BEIN SPORT 3
+http://51.15.8.16:8081/arbiarb/beinsports3/chunks.m3u8?
+#EXTINF:-1 group-title="บอลต่างประเทศ",BEIN SPORT 4
+http://51.15.8.16:8081/arbiarb/beinsports4/chunks.m3u8?
+#EXTINF:-1 group-title="บอลต่างประเทศ",BEIN SPORT 5
+http://51.15.8.16:8081/arbiarb/beinsports5/chunks.m3u8?
+#EXTINF:-1 group-title="บอลต่างประเทศ",BEIN SPORT 6
+http://51.15.8.16:8081/arbiarb/beinsports6/chunks.m3u8?
+#EXTINF:-1 group-title="บอลต่างประเทศ",BEIN SPORT 7
+http://51.15.8.16:8081/arbiarb/beinsports7/chunks.m3u8?
+#EXTINF:-1 group-title="บอลต่างประเทศ",BEIN SPORT 8
+http://51.15.8.16:8081/arbiarb/beinsports8/chunks.m3u8?
+#EXTINF:-1 group-title="บอลต่างประเทศ",BEIN SPORT 9
+http://51.15.8.16:8081/arbiarb/beinsports9/chunks.m3u8?
 
 ########################################################
 
@@ -311,18 +308,7 @@ http://iliketot.dyndns.tv/90d14bbf53d14b018d4439ffba6be283.m3u8?wmsAuthSign=c2Vy
 http://iliketot.dyndns.tv/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
 #EXTINF:-1 group-title="จาก TOTiptv",CCTV-9 Documentary
 http://iliketot.dyndns.tv/b08a8052e6724bedba5399f662715ad1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
-#EXTINF:-1 group-title="จาก TOTiptv",SMM TV
-http://iliketot.dyndns.tv/48cac6380caf4f078eafccc63804ac23.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
-#EXTINF:-1 group-title="จาก TOTiptv",T Sports Channel
-http://iliketot.dyndns.tv/3ee1e656d6ae417a914743328d44f20f.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
-#EXTINF:-1 group-title="จาก TOTiptv",Fox Sport 2 (TH)
-http://iliketot.dyndns.tv/1fd48f2cd616439ca4162478e572d681.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
-#EXTINF:-1 group-title="จาก TOTiptv",Fox Sport 2 (EN)
-http://iliketot.dyndns.tv/02cb79ab0b0c418f847148ca9e2baed4.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
-#EXTINF:-1 group-title="จาก TOTiptv",Fox Sport 3 (TH)
-http://iliketot.dyndns.tv/b254601a75724ad79e2633f3d307e331.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
-#EXTINF:-1 group-title="จาก TOTiptv",Fox Sport 3 (EN)
-http://iliketot.dyndns.tv/443ea6ef1768462aaffdff38ce2a4355.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAxOCA1OjEyOjQzIEFNJmhhc2hfdmFsdWU9V1p5K1FCOVpVcGdxL3RGMHdGZi9Edz09JnZhbGlkbWludXRlcz0yJmlkPW1mb290YmFsbDV8ODM4fGlwdHZoZXJvfDE1NDAwMTIzNjN8MjIzLjIwNy4xNDkuMjIz
+
 
 #EXTINF:-1 group-title="18+",Big Ass (18+)
 http://live.redtraffic.xyz/bigass.m3u8
@@ -448,6 +434,21 @@ http://cdn.adultiptv.net/teen.m3u8
 http://cdn.adultiptv.net/threesome.m3u8
 
 ########################################################
+#EXTINF:-1 group-title="หนัง 2019",ดิ อะเมซิ่ง สไปเดอร์แมน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_The.Amazing.Spider.Man.2012.4k.2500.mp4/index.m3u8
+
+#EXTINF:-1 group-title="หนัง 2019",ดิ อะเมซิ่ง สไปเดอร์-แมน ผงาดอสูรกายสายฟ้า
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_The.Amazing.Spider-Man.2.2014.4K.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="หนัง 2019",SPIDER-MAN: FAR FROM HOME (2019) สไปเดอร์-แมน ฟาร์ ฟรอม โฮม
+https://edge-ns1.leoplayer1.com/hls/2d0970b636550e25ae44578bbee06464/2d0970b636550e25ae44578bbee06464.playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง 2019",Justice League จัสติซ ลีก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_HD_Justice.League.2017.FullHD.TH.mp4/index.m3u8
+
+#EXTINF:-1 group-title="หนัง 2019",ธอร์ ศึกอวสานเทพเจ้า
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Thor.Ragnarok.2017.FullHD.TH.mp4/index.m3u8
+
 
 #EXTINF:-1 group-title="หนัง 2019"tvg-logo="https://movie2uhd.com/wp-content/uploads/2019/12/pro-may-movie2uhd.jpg",โปรเม อัจฉริยะต้องสร้าง (2019)
 https://cdn5.cdn9x.com/8j5m8cmr/1080p.m3u8
@@ -964,90 +965,915 @@ https://cdn5.cdn9x.com/lfc4b73d/1080p.m3u8
 
 #EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/cm57lbwtsr0yo5ub7miwtos1oibu89fkvksgwpapgbn4ghgo4ykxndycva63klog.png",The Darkest Minds จิตทมิฬ (2018)
 https://cdn2.cdn9x.com/8kf2a3gk/1080p.m3u8
-
-
-
-
-
+#EXTINF:-1 group-title="หนัง HD",The Knight Before Christmas อัศวินก่อนวันคริสต์มาส (2019)
+https://cdn5.cdn9x.com/0o3red31/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",The Irishman คนใหญ่ไอริช (2019)
+https://cdn5.cdn9x.com/31hpsuui/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Ready or Not เกมพร้อมตาย (2019)
+https://cdn5.cdn9x.com/lpq2kv6e/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Gemini Man เจมิไน แมน (2019)
+https://cdn5.cdn9x.com/pc7groqm/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Jade Dynasty กระบี่เทพสังหาร (2019)
+https://cdn5.cdn9x.com/lcforgpd/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Kill Chain โคตรโจรอันตราย (2019)
+https://cdn5.cdn9x.com/1gv8n950/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",stuber สตูเบอร์ (2019)
+https://cdn5.cdn9x.com/ipqdac9m/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Apollo 11 อพอลโล 11 (2019)
+https://cdn5.cdn9x.com/svbm7rgc/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Zombieland: Double Tap ซอมบี้แลนด์ แก๊งซ่าส์ล่าล้างซอมบี้ (2019)
+https://cdn5.cdn9x.com/nina5v9p/720p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Mary เรือปีศาจ (2019)
+https://cdn5.cdn9x.com/db4p8j87/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Cold Blood Legacy นักฆ่าเลือดเย็น (2019)
+https://cdn5.cdn9x.com/4a0bkur8/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Ad Astra ภารกิจตะลุยดาว (2019)
+https://cdn5.cdn9x.com/no1au1mc/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Rambo 5: Last Blood แรมโบ้ 5 นักรบคนสุดท้าย (2019)
+https://cdn5.cdn9x.com/1vgq4d14/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",It Chapter Two อิท โผล่จากนรก 2 (2019)
+https://cdn5.cdn9x.com/urueh1c1/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",The Divine Fury มือนรกพระเจ้าคลั่ง (2019)
+https://cdn5.cdn9x.com/cq69css0/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",47 Meters Down: Uncaged ดิ่งลึกสุดนรก (2019)
+https://cdn5.cdn9x.com/1vf1djf3/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Crawl คลานขย้ำ (2019)
+https://cdn5.cdn9x.com/menak1vr/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Dora and the Lost City of Gold ดอร่า​และเมืองทองคำที่สาบสูญ (2019)
+https://cdn5.cdn9x.com/9pm3qu4c/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",The Lion King เดอะ ไลอ้อน คิง (2019)
+https://cdn5.cdn9x.com/d3dcvnuj/720p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Spider-Man Far from Home (2019)
+https://cdn4.cdn9x.com/ms6u6mbc/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Alita: Battle Angel อลิตา แบทเทิล แองเจิ้ล (2019)
+https://cdn4.cdn9x.com/cnj6hbf4/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",X-Men: Dark Phoenix (2019)
+https://cdn4.cdn9x.com/bmd17fmt/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Godzilla: King of the Monsters (2019)
+https://cdn4.cdn9x.com/ku95ilc5/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",John Wick: Chapter 3 – Parabellum จอห์น วิค แรงกว่านรก ภาค3 (2019)
+https://cdn2.cdn9x.com/d3mlgg7r/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",Shazam! (2019)
+https://cdn4.cdn9x.com/l8t9nlpo/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Captain Marvel กัปตัน มาร์เวล (2019)
+https://cdn4.cdn9x.com/7cfq8n3q/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Pokémon Detective Pikachu โปเกมอน ยอดนักสืบพิคาชู (2019)
+https://cdn2.cdn9x.com/hb6fa4s2/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Cold Pursuit แค้นลั่นนรก (2019)
+https://cdn4.cdn9x.com/rb4bueod/720p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Avengers 4: Endgame อเวนเจอร์ส 4: เผด็จศึก (2019)
+https://cdn5.cdn9x.com/g16t4meo/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Kursk คูร์ส: หนีตายโคตรนรกรัสเซีย (2019)
+https://cdn5.cdn9x.com/rv4tpihd/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",The Wandering Earth ปฏิบัติการฝ่าสุริยะ (2019)
+https://cdn2.cdn9x.com/jc386vb1/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Over Drive ทีมซิ่งผ่าฟ้า (2019)
+https://cdn5.cdn9x.com/li8rgnm4/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Captive State สงครามปฏิวัติทวงโลก (2019)
+https://cdn4.cdn9x.com/4bnvio59/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",The Kid Who Would Be King หนุ่มน้อยสู่จอมราชันย์ (2019)
+https://cdn5.cdn9x.com/4h5vkhs8/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Hellboy เฮลล์บอย (2019)
+https://cdn4.cdn9x.com/uooljg62/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Glass คนเหนือมนุษย์ (2019)
+https://cdn5.cdn9x.com/4efk4hgm/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Escape Room กักห้อง เกมโหด (2019)
+https://cdn5.cdn9x.com/s0ga0cer/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Higher Power มนุษย์พลังฟ้าผ่า (2018)
+https://cdn5.cdn9x.com/jaj1sjnc/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Proud Mary แมรี่พราวพยัคฆ์ (2018)
+https://cdn5.cdn9x.com/78rm0vk5/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Den of Thieves โคตรนรกปล้นเหนือเมฆ (2018)
+https://cdn5.cdn9x.com/rra5knbo/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",7 Guardians of the Tomb ขุมทรัพย์โคตรแมงมุม (2018)
+https://cdn5.cdn9x.com/bl8ruegp/720p.m3u8
+#EXTINF:-1 group-title="หนัง HD",The Commuter นรกใช้มาเกิด (2018)
+https://cdn5.cdn9x.com/b0g1b5qd/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Pacific Rim2: Uprising แปซิฟิค ริม ภาค2 ปฏิวัติพลิกโลก (2018)
+https://cdn5.cdn9x.com/dgp3qvu4/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Show Dogs โชว์ด็อก (2018)
+https://cdn5.cdn9x.com/2v0preng/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Monster Hunt2 มอนสเตอร์ ฮันท์ ภาค2 (2018)
+https://cdn5.cdn9x.com/njugc1bh/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Insidious 4: The Last Key วิญญาณตามติด: กุญแจผีบอก ภาค4 (2018)
+https://cdn5.cdn9x.com/nth3o59e/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Redcon ภาค1 (2018)
+https://cdn5.cdn9x.com/cote73vi/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Gintama 2: Okite wa yaburu tame ni koso aru (2018)
+https://cdn5.cdn9x.com/4gtm1t0f/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Paul Apostle of Christ พอล อัครสาวกของพระเจ้า (2018)
+https://cdn5.cdn9x.com/3mmde2li/720p.m3u8
+#EXTINF:-1 group-title="หนัง HD",The Negotiation เกมเดิมพัน (2018)
+https://cdn5.cdn9x.com/dqd8midq/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Destroyer แค้นฝังลึก (2018)
+https://cdn5.cdn9x.com/ppkfgtk8/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Siberia ไซบีเรีย (2018)
+https://cdn5.cdn9x.com/mve726nq/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Terminal เธอล่อ จ้องฆ่า (2018)
+https://cdn5.cdn9x.com/rrikevof/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Destination Wedding ไปงานแต่งเขา แต่เรารักกัน (2018)
+https://cdn5.cdn9x.com/f1jkeaue/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",The Old Man & the Gun (2018)
+https://cdn4.cdn9x.com/cakhhu7p/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Remi Nobodys Boy เรมี่ หนุ่มน้อยเสียงมหัศจรรย์ (2018)
+https://cdn4.cdn9x.com/dtp3m85c/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Braven คนกล้า สู้ล้างเดน (2018)
+https://cdn2.cdn9x.com/p81roo64/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Along with the Gods: The Last 49 Days : ฝ่า 7 นรกไปกับพระเจ้า 2 (2018)
+https://cdn2.cdn9x.com/94mg5q0s/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Belleville Cop โคตรโปลิส มือวางอันดับแสบ (2018)
+https://cdn5.cdn9x.com/lj3cjpqa/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",12 Strong 12 ตายไม่เป็น (2018)
+https://cdn5.cdn9x.com/fqrb06dd/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Backtrace ย้อนรอยปมปริศนา (2018)
+https://cdn2.cdn9x.com/ihe6rlir/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Upgrade อัปเกรด (2018)
+https://cdn2.cdn9x.com/7kbs0ku4/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",The Wedding Guest วิวาห์เดือด (2018)
+https://cdn5.cdn9x.com/gf8lkr0t/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",City Hunter ซิตี้ฮันเตอร์ สายลับคาสโนเวอร์ (2018)
+https://cdn4.cdn9x.com/b82o3p1k/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Iceman 2: The Time Traveler ไอซ์แมน 2 (2018)
+https://cdn4.cdn9x.com/l4uea24o/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Slaughterhouse Rulez โรงเรียนสยอง อสูรใต้โลก (2018)
+https://cdn4.cdn9x.com/hpied8q8/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",เดอะนัทแครกเกอร์กับสี่อาณาจักรมหัศจรรย์ (2018)
+https://cdn4.cdn9x.com/mnakbnoq/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Deadpool 2 เดดพูล 2 (2018)
+https://cdn4.cdn9x.com/29ipn85u/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",A Quiet Place ดินแดนไร้เสียง (2018)
+https://cdn4.cdn9x.com/qrsbqb46/720p.m3u8
+#EXTINF:-1 group-title="หนัง HD",7 Days in Entebbe เที่ยวบินนรกเอนเทบเบ้ (2018)
+https://cdn4.cdn9x.com/rndsmn46/720p.m3u8
+#EXTINF:-1 group-title="หนัง HD",The Hurricane Heist ปล้นเร็วฝ่าโคตรพายุ (2018)
+https://cdn4.cdn9x.com/mic9heac/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Day of the Dead: Bloodline วันนรกเดือด มฤตยูซอมบี้สยอง (2018)
+https://cdn4.cdn9x.com/k7s33ma8/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Stratton แผนแค้น ถล่มลอนดอน (2018)
+https://cdn4.cdn9x.com/b0fmdl9o/720p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/uq221on7tuo4il52uq5553qv6efwy77tx9vzyi6rdvwwg2zas5gx86sel8bjfidc.png",Beyond the Edge เกมเดิมพัน คนพลังเหนือโลก (2018)
+https://cdn4.cdn9x.com/qfn0ffvb/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/rx3op9a699747grzm86eoi6ptmij5chw9lkzuu533c8bs0af8htw0zmtl4dqgvnq.png",Ready Player One เรดดี้ เพลเยอร์ วัน สงครามเกมคนอัจฉริยะ (2018)
+https://cdn4.cdn9x.com/q5h0s2b1/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/y6ri6ygnq4260b5jz218yn749scvckvbrntylalbfnigznzzq17ooesy75ujppuh.png",Death Wish นักฆ่าโคตรอึด (2018)
+https://cdn4.cdn9x.com/j07ibdm0/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/eio7tinje0prwsl5hd2eaayarz1f3dqiwfqpxd9bdy2arof82hncslmkknzo1q6x.png",Red Sparrow เรด สแปร์โรว์ หญิงร้อนพิฆาต (2018)
+https://cdn4.cdn9x.com/1shb5pm2/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/q2u944mkoc2toc7mkndhizwddczn4y4u1z364pqs1smp5ucqhp8zp4d3hcqlavfc.png",Gringo กริงโก้ซวยสลัด (2018)
+https://cdn4.cdn9x.com/vj7hhkre/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/vy4cvj3lk6dnnogf3kon4r0d0wa0mgxif2uamyw659tsx970uvozmocnlnn84lqj.png",Battle Drone สงครามหุ่นรบพิฆาต (2018)
+https://cdn4.cdn9x.com/l3sbks9u/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="http://hdplaypic.dynns.com/assets/201809052135491351845760.jpg",Ocean’s 8 โอเชียน 8 (2018)
+https://cdn4.cdn9x.com/rdga5gkt/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/ifyflzkvu6prrm7q4mjeoozm72asitl08kguj0pe7e5y1dp508koxkb5nlx5fj5n.png",Adrift รักเธอฝ่าเฮอร์ริเคน (2018)
+https://cdn5.cdn9x.com/7euhu9nm/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/xoncqacyipaa7vcqmzip8va75c4i8ci616jshwqzm1atwnkim37uyh24u7m3j5al.png",Solo: A Star Wars Story ฮาน โซโล: ตำนานสตาร์ วอร์ส (2018)
+https://cdn2.cdn9x.com/lnlup89d/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/jpuq1xexvy7g19dywwzm8y55lfhy8l8sb3ic1x9xwhdxqrvnov9xue2guke25nug.png",A Better Tomorrow โหดเลวดี (2018)
+https://cdn2.cdn9x.com/5rfijdjh/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/g5v8bgwgbvomujz5crr89uhrgq25d3iu9d2kuz05vorp7rvkjmtshbkx2m3fpl9y.png",The Cured ซอมบี้กำเริบคลั่ง (2018)
+https://cdn2.cdn9x.com/5i8hnhht/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/uahyb33ntsmlv1o9kl729dzbt0zribbdltbxwekq77c280csmkvvxu7qv6hditq3.png",Skyscraper ระห่ำตึกเสียดฟ้า (2018)
+https://cdn2.cdn9x.com/jgh818pu/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/y05a4as2ca3a4ktw6ettrx0d7y72e9td9yne8fgkqkvu5orc3k5ui58p4fsjolwy.png",Backstabbing for Beginners ล้วงแผนล่าทรยศ (2018)
+https://cdn2.cdn9x.com/jng9gehg/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/cp2zo5n4xm4p18c22148ewr98u4lckzp91py7d35z7u0g72i87qn3ixcc1yplxfv.png",Billionaire Boys Club รวมพลรวยอัจฉริยะ (2018)
+https://cdn2.cdn9x.com/6odmbg25/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/ta31punztnb7qhuzu9w4oi8m2qiixydq8gsybfy43actr6slgpq47yrap9sm85dh.png",Ant-Man 2 and the Wasp แอนท์-แมน 2 และ เดอะ วอสพ์ (2018)
+https://cdn2.cdn9x.com/pdqphhuh/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/oflvrh7vii0pejeb44dj4m64noggtuph9ad1skwa2w0ggfslj64nsasfz9ws3lad.png",Future World สงครามล่าคนเหล็ก (2018)
+https://cdn2.cdn9x.com/1u918puj/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/jmtiipzqa9vsjg8m5zr2j9164osdv89fu3xdsx336zwpg5cl53oodpuidnv9v5pq.png",Hotel Artemis โรงแรมโคตรมหาโจร (2018)
+https://cdn2.cdn9x.com/ak9fv8s0/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="http://hdplaypic.dynns.com/assets/201806281155431212047658.jpg",Tomb Raider ทูม เรเดอร์ (2018)
+https://cdn2.cdn9x.com/hrgqgdj4/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/43pft6ijt4etaqkkrdccf2jq09e8nf7sjw7c3qwwubp519psm1523ps3z7cnnjf6.png",Slender Man สแลนเดอร์ แมน (2018)
+https://cdn2.cdn9x.com/4qd1f5j3/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/qaycyoqy6wlijpcfxft30nzwzgnaotkf4ir27i1efmwyc8ean8dnvckut75h1qw5.png",Winchester คฤหาสน์ขังผี (2018)
+https://cdn2.cdn9x.com/k5otco8g/720p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/v8um5ntsju9mwobyrrxhgkudwgxbaiq6qlsv9mosgyedmqbei8wztqcp791hrsni.png",The Equalizer 2 มัจจุราชไร้เงา ภาค2 (2018)
+https://cdn2.cdn9x.com/2n21m4kf/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/nxdlskdh9uv791uxwncn7gxfejgcbhuzf7k8syp2tl92m4zjsc6zt3f7mvkydexs.png",A-X-L แอคเซล โคตรหมาเหล็ก (2018)
+https://cdn2.cdn9x.com/i4bt68k9/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/qf6r032lsiaxsyc84dct0ft1nfevtgcjwjbwmeiextcproxw1ap1pj3cyh7sykcu.png",Monstrum พันธุ์อสูรกลาย (2018)
+https://cdn5.cdn9x.com/vg7ah4kd/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/p0uk2n8b7o5gsg27h6ja1ro78hkwqakgbe1e29payvrqbtxt0h328r9h9ue04ygg.png",The Con Is On ปล้นวายป่วง (2018)
+https://cdn2.cdn9x.com/bc5478ke/720p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/kjwcn6k0xijitpe74yly3nih2us2fjcz29cqfwrdeav809g5814bomsrhltw46v6.png",Halloween ฮาโลวีน (2018)
+https://cdn2.cdn9x.com/upns1gkb/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/4d7py1qz4hcdfbuhb4l95u6b3h9oe3vjg28e4ze8hrmx3heelzoruu3ycdnrgiax.png",The Meg เม็ก โคตรหลามพันล้านปี (2018)
+https://cdn2.cdn9x.com/ratcivp6/720p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/ljhgcmfa8ukyyyel2uloq40913t5xdwjxdz9zej783672ks5fdt5htfjx8oulkdi.png",The First Purge ปฐมบทคืนอำมหิต (2018)
+https://cdn2.cdn9x.com/dscpnf3f/720p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/kr59pvjp8c20q492jstue9w58ao91uammgvbce1lq3lh8ukrnem2ni7wtv5uqggc.png",Alpha ผจญนรกแดนทมิฬ 20,000 ปี (2018)
+https://cdn2.cdn9x.com/a7hlar3e/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/s9x3r3peymwh4hvanenem3u9ug7zlcmemkhen7smtp3x6z8uev80z39tjgs5tfjg.png",Leave No Trace ปรารถนาไร้ตัวตน (2018)
+https://cdn2.cdn9x.com/335bcf3e/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/mtbws13k56viilagknoo6mng1zrhrbke4wbxxfh3ldl4ywkij97qvu6xuyem9z1d.png",Inuyashiki อินุยาชิกิ คุณลุงไซบอร์ก (2018)
+https://cdn2.cdn9x.com/i1g4noaa/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/cyuneo8dhr2ss72zmynqxm9on7o9n27001ofqws7nv0g32fp13fyppncwcmketkf.png",Mile 22 คนมหากาฬเดือดมหาประลัย (2018)
+https://cdn2.cdn9x.com/d64insab/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/serebijt1vf55ytndzxclyhxroh9vm0n0s2bal5chlinjbaxa89v7qtyfa8aw8yx.png",Peppermint นางฟ้าห่ากระสุน (2018)
+https://cdn2.cdn9x.com/92se311q/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/ufz3bnnv9mxaljf4crj8g0ayjyi8yyftdewp2jlb5jlq31vftfnafy9yxr6wpmp3.png",The Christmas Chronicles ผจญภัยพิทักษ์คริสต์มาส (2018)
+https://cdn2.cdn9x.com/ud45s829/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/8qzbb60w9rr5vmhtwprb44n6yk89ciuk8twjzwg9n7ejtwdql52qapw8a5imnc7w.png", บ้านเวทมนตร์และนาฬิกาอาถรรพ์ (2018)
+https://cdn2.cdn9x.com/570h0dtk/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/1nbeynxj4g0x3ovv32hbab5xxhohlm6mai086xsaes8hh3ck6uvg60e4i3m3qsq0.png",Animal World เจิ้งไค ฮีโร่เกรียนกู้โลก (2018)
+https://cdn2.cdn9x.com/qhion4fm/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/5elguqfjfetbszad0enlp9n8gihqbsyh7jx29dlpsf0kebxfpl0fuona651hyzz5.png",Kin โคตรปืนเอเลี่ยน (2018)
+https://cdn2.cdn9x.com/tr2t4cfo/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/qvevc6op8pc8kr9ln75df9zua5f645mu11qd8e3g4fpo7yau6f7lp7g0cv6h1sb2.png",เดอะ สกอร์เปี้ยน คิง 5: ศึกชิงคัมภีร์วิญญาณ (2018)
+https://cdn2.cdn9x.com/klsou1rh/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/ro83kcsjs5qjk8cdo7m1fzxtjsryweln2trm5j6ypxh95tmu19vh8tbrl3qihb6j.png",The Predator เดอะ เพรดเดเทอร์ (2018)
+https://cdn2.cdn9x.com/dot2h2a3/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/926gc5h5hq1hnp5gejj7j4azljiq0wuay1ra68gozh5m6a3lumser3ddmw3nsyyr.png",The Nun เดอะ นัน (2018)
+https://cdn2.cdn9x.com/8fiq66a2/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/pjg5ptkvg6by99mjqilzmxra5zyleog38x9xqts7z459dst3ae3xbv8hu629ujd3.png",Ghost Stories โกสต์ สตอรี่ พิสูจน์ผี (2018)
+https://cdn2.cdn9x.com/nqobq9d9/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/do0mjat0zn9kfm2rchzzrfwdpzmfnog0dhnwrhwr56cksfb5wa5oq12g0pvnebor.png",Blindspotting ที่นี่ประเทศไหน (2018)
+https://cdn2.cdn9x.com/havga7p8/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/hug8zuzs8sbuekpqanb185rp2srcm393xqcwlbpt40ojld9v1kxapozrgr42ue6s.png",Just a Breath Away หมอกมฤตยู (2018)
+https://cdn2.cdn9x.com/hept184r/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/g7j38nas3geeo2pc009dfv7kaav4ksr00b39ye12ughii6vi65vm137be2fyu7yv.png",Goosebumps 2: Haunted Halloween คืนอัศจรรย์ขนหัวลุก 2 หุ่นฝังแค้น (2018)
+https://cdn2.cdn9x.com/ded0n84q/720p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="http://hdplaypic.dynns.com/assets/20190205121221604501972.jpg",McQueen แม็คควีน (2018)
+https://cdn2.cdn9x.com/dueiu4hl/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/p5ehvolrg5h6h6v1om46xspp0xz8gne5stnni8fydw4v30xrn2yluoavm932xi7p.png",Maze Runner 3: The Death Cure เมซ รันเนอร์ ไข้มรณะ (2018)
+https://cdn4.cdn9x.com/j3n21du3/720p.m3u
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/c62p5e06a6ee09l34tox26jdil650mmcto2y325e9jsatedx72u99emr0tx0gkc9.png",Jurassic World 2: Fallen Kingdom จูราสสิค เวิลด์ 2: อาณาจักรล่มสลาย (2018)
+https://cdn4.cdn9x.com/lp6ft2f2/720p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/q6uwvxytbh8se5swt75bfq3lrwe5jyk94f60d4tom2h07ax1h2dwtgikdwqwvb6z.png",Shadow จอมคนกระบี่เงา (2018)
+https://cdn2.cdn9x.com/ak0or7rp/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/uav93wco1qgchxd5ulmjl9pop5payset2a366fu76ako8yu3jhm4qcsghirgb5ae.png",Acts Of Violence (2018) คนอึดล่าเดือด
+https://cdn2.cdn9x.com/1nt319b7/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/hx7tfk29842ylzcdgicih9mdutngc75t5dnlyqu6ux4gxhtdz6whfiuaciqoqwiv.png",Final Score ยุทธการดับแผน ผ่าแมตช์เส้นตาย (2018)
+https://cdn2.cdn9x.com/b3va41b7/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/fpjb71z33vwq7j1pkr18eyu54y1n5uikj1wr3wu7rrxybynvqp45nzasycg37zor.png",The Unity of Heroes หวงเฟยหง (2018)
+https://cdn2.cdn9x.com/8bgin0eb/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/vkzm0wvun0oo5ntbeyyvslawok9kqzymkx9lu4fi536aqzl5yk1q6bnuwwenwdag.png",Bel Canto เสียงเพรียกแห่งรัก (2018)
+https://cdn2.cdn9x.com/4ls356m2/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/wyi021l54qst4traw2108ap2zk4wndvkbeldf6ijwbd155b17c2gmsjlcoi01ekc.png",The 15:17 to Paris หยุดด่วนนรก 15:17 (2018)
+https://cdn2.cdn9x.com/cdhoablh/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/yrkkkadxgzkkkm9d9r1cl2vhkof579960tqk43ik224npe1y52ar459ouou2x38y.png",Anon แหกกฏล่า ฆ่าล้ำอนาคต (2018)
+https://cdn2.cdn9x.com/hc50cjq/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/4tcwey5egr00mgneluc8crwa9wumqz8utlq7kvl1mm193oooj0xwrt61p0ng0wat.png",Game Night คืนป่วน เกมส์อลเวง (2018)
+https://cdn2.cdn9x.com/520r39jh/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/0syh0lilhtp4fg6y0nouetyijcl3iuojmn0n8i9qcyurf0qfofa288lsl7v41kno.png",Avengers 3: Infinity War อเวนเจอร์ส 3: มหาสงครามล้างจักรวาล (2018)
+https://cdn2.cdn9x.com/dfb48sos/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",Assassination Nation แอสแซสซิเนชั่น เนชั่น (2018)
+https://cdn2.cdn9x.com/f84uek0v/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/zk45rc51ae1gyn9lydglrp2qdyjfdi1d26itiout3w92kjojw54ou7f76ymjgnwj.png",Arizona แอริโซนา (2018)
+https://cdn2.cdn9x.com/ds3skgdu/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/sp7jpvts5glzgfzuslmgl1jzdwrlyceq2marh3knj6m0lmue7husjdsw9ki7xxyz.png",The Perfection มือหนึ่ง (2018)
+https://cdn5.cdn9x.com/rm0afcp0/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/5c9k3krv7qq0zja2sx90t01f94x8nj2twce0w5w3vm4v6fyyd7z681mh5kpt3sm0.png",Venom เวน่อม (2018)
+https://cdn5.cdn9x.com/sfpfbi53/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/38kmu81bc692ll460cz3jl3adryst7mxf7kaflmsrwudhzkickmv6p6jh4cbbz9r.png",First Man มนุษย์คนแรกบนดวงจันทร์ (2018)
+https://cdn2.cdn9x.com/bv2fltro/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/a5jdnx985ihjsafw3qg2nftsgbturbi1g2e30oc56upy44u8ubbhq4a6f306ej8v.png",Robin Hood พยัคฆ์ร้ายโรบินฮู้ด (2018)
+https://cdn2.cdn9x.com/r9i25cs4/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/8934a6o40inlmn1mxh26u8434btsivor4swfykkz37lpumcs3fyyn32sewkxr9pw.png",สัตว์มหัศจรรย์: อาชญากรรมของกรินเดลวัลด์ (2018)
+https://cdn2.cdn9x.com/c4j8ntjj/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/gksovk22a1fv881dfibddcncfsyj2zdik67gr9j2byyj7zxmh8zvkn80g6ki6y0r.png",Galveston ไถ่เธอที่เมืองบาป (2018)
+https://cdn2.cdn9x.com/g71u51uf/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/pnxy00e2lp4xztjkhkk8rkul8tdajrp8fm6fnli8an5agpux9f51zzm8s0ibr7k6.png",Escape Plan 2: Hades แหกคุกมหาประลัย ภาค2 (2018)
+https://cdn2.cdn9x.com/hpvjptud/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/ppwtu782hhswql3ecrcwwlr7ghtlitd8ia1dhagzr8vityw6p92muttbbnwuha30.png",จอห์นนี่ อิงลิช พยัคฆ์ร้าย ศูนย์ ศูนย์ ก๊าก รีเทิร์น (2018)
+https://cdn2.cdn9x.com/toiuu73a/720p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/d8ku3cztrr6zz18kttolafgk8csbmu7z3ru64t0vl6ul8362wun794sihku3f12i.png",Rampant (Chang-gwol) นครนรกซอมบี้คลั่ง (2018)
+https://cdn2.cdn9x.com/t41prn3a/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/b2gznlnupca71h21bs739pd1liv3g7wradqxzdroq1wsiztur1y0rc2cvyfb6c3g.png",The Spy Who Dumped Me 2 สปายสวมรอยข้ามโลก (2018)
+https://cdn2.cdn9x.com/c5aefkrq/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/uc8t506dvkc1f4oabso4bsnjhlsv1b0vo9otau65fj7unw5zot40mrj3cczdnz9b.png",Mission: Impossible (6) Fallout มิชชั่น: อิมพอสซิเบิ้ล ภาค6 ฟอลล์เอาท์ (2018)
+https://cdn2.cdn9x.com/1i8nubrf/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/qgsu0xr3cllgs1se8cj83pcc4ct80lmr1fl2cc5pyr5rsy61bpaeemqjzkrz5er6.png",Sicario 2: Day of the Soldado ทีมพิฆาตทะลุแดนเดือด ภาค2 (2018)
+https://cdn2.cdn9x.com/l88oc0kp/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/t0twnn9q999yx2zkpcmshmbwk5l9fnt8om5bae2jochmeh64ttwbf780dt9sh215.png",A New Dragon Tattoo Story พยัคฆ์สาวล่ารหัสใยมรณะ (2018)
+https://cdn2.cdn9x.com/480r0k3k/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/u616vzt8vgw708kwswqh2qt4lhcuzp6tw80r7uz2bw9c4u8xqyftp9xara5q0bkw.png",Golden Job มังกรฟัดล่าทอง (2018)
+https://cdn2.cdn9x.com/q81di03k/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/num6cwwkaa2j7yq7nw3llsx3abhpvcfj72pjyl39v5s34jasfed16b5hnm6izm16.png",Bumblebee บัมเบิ้ลบี (2018)
+https://cdn2.cdn9x.com/jrr5vj5p/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/0lo26obu64xkrl1ua0sjqhhvoeigbmpb7ded1p78t5skquf0u7jlo0gdfzurlj2t.png",Widows หม้ายสาวล้างบัญชีหนี้ (2018)
+https://cdn2.cdn9x.com/qclbdf5n/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/a4u8jm9qk5m6q1dtjt407b3bxa0ac6mnbhvu45lob7v198vs1zt9axk88ljkr572.png",Rampage แรมเพจ ใหญ่ชนยักษ์ (2018)
+https://cdn5.cdn9x.com/dsjg7ulm/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/858f8gf2qtm92crposlyjsl4c5un4gfdlnsu38wu1j33wvtknfi774bj956ellr7.png",Mortal Engines สมรภูมิล่าเมือง: จักรกลมรณะ (2018)
+https://cdn2.cdn9x.com/e35qpf96/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/0jh2wjny7bwvvt9feqpn1hlllwu8yfoyz51vpoux0qtvj2ays0lui6g33bc1q10q.png",Overlord ปฏิบัติการโอเวอร์ลอร์ด (2018)
+https://cdn5.cdn9x.com/5lbusihe/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/n9sw3bkykmx8nh6xrl00i5fj34umna2aku6n5qmqcjy015xsqyt848s7cnt0yvai.png",Master Z: The Ip Man Legacy ยิปมัน: ตำนานมาสเตอร์ Z (2018)
+https://cdn5.cdn9x.com/t667m8v5/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/adktec1k9mofaehzjvtvowynftcj943jincwzeh816obk5a314yp0xdgqp0zt3ic.png",211 - ปล้นสะท้านเมือง
+https://cdn5.cdn9x.com/6aiuu4v4/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/92xr6q8z02r2zi4rwojvyaek7icpshs2jptqg2ph5hj50owwdfrbp6vxo8nhpgk8.png",Replicas พลิกชะตา เร็วกว่านรก (2018)
+https://cdn2.cdn9x.com/k4visv4/720p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/1zoga95vz5f1lfwuanrojod1rt8dtqfup3a0dfwdlbe6qa11ytqii4jaxsoqj3k9.png",The Trough แผนสังหารเกมอำมหิต (2018)
+https://cdn5.cdn9x.com/583pt7m3/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/h3p4ku2dtkiak31fy0j242fqnv5nxomesbic5lqz689rcb7bbqdfts6gob4lzq0s.png",The Quake (Skjelvet) มหาวิบัติวันถล่มโลก (2018)
+https://cdn5.cdn9x.com/mpj0h5e3/720p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/36zzwros86vql5j1u3veplzmfx9lhggkngkk89cgf870eq19uxnkin6ykgj1x0ml.png",Hunter Killer สงครามอเมริกาผ่ารัสเซีย (2018)
+https://cdn5.cdn9x.com/l62fgf2/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/mbr8iebw6qva76mwjpgrmq7wxrpufuz16rao5mlccgmkn9g6zwxln5hlw7fc2fe8.png",The Incredible Monk จี้กง คนบ้าหลวงจีนบ๊องส์ ภาค1 (2018)
+https://cdn5.cdn9x.com/bl521i9d/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/kkp81234tq5rjxpul66lr0g67rr68zwsjm1lo4qiuw9euy8f5e1wfh2m8uthupad.png",Aquaman อควาแมน เจ้าสมุทร (2018)
+https://cdn5.cdn9x.com/p0dbfnb5/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/eoqaa6hebu1jxq20q0f929upawm8pvp4jgeunw8yraho1kosk41ndvcorzxhumld.png",Beirut เบรุตนรกแตก (2018)
+https://cdn5.cdn9x.com/pidsg7pc/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/6z4g5n71e3jx5zolas92wm44xyjhn00t04a6ri76lr4rrsd1lm3h97l654ns5nm6.png",Taxi 5 โคตรแท็กซี่ขับระเบิด (2018)
+https://cdn5.cdn9x.com/j7um2to/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/lw1g0t6dn54xrfb5mlooz8ctafuwdlgzhhgibmwzr0xjg9o3udrtl4nvkhsx39xl.png",ตี๋เหรินเจี๋ย ปริศนาพลิกฟ้า 4 จตุรเทพ (2018 )
+https://cdn5.cdn9x.com/4g1j5tgn/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/la5241qqqhx3azb4l86josyeer4uidl3nr5rswijefmofyt060kvsia69e1ssmwg.png",ไซอิ๋ว 3 ตอนศึกราชาวานรตะลุยเมืองแม่ม่าย (2018)
+https://cdn5.cdn9x.com/sph0rjsh/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/f6qqehpwnfdmq5lyn0fszjcdnrq5smr7shx7zn3m2h8smurau72uqf8e7yjzka6d.png",Europe Raiders พยัคฆ์สำอาง กระเเทกยุโรป (2018)
+https://cdn5.cdn9x.com/0tvuamcb/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/r3vrjanegjzmrk1a0e592axr04njfqb7t7ydhlry4qkwbm6b1ck3miunmi718i82.png",Operation Red Sea ยุทธภูมิทะเลแดง (2018)
+https://cdn5.cdn9x.com/lfc4b73d/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images.u-playtv.com/images/vod/thumbs/cm57lbwtsr0yo5ub7miwtos1oibu89fkvksgwpapgbn4ghgo4ykxndycva63klog.png",The Darkest Minds จิตทมิฬ (2018)
+https://cdn2.cdn9x.com/8kf2a3gk/1080p.m3u8
+#EXTINF:-1 group-title="หนัง HD",The Hustler (1961) นักธุรกิจ
+https://edge-ns1.leoplayer1.com/hls/e099869935c0ff82062155d10da705e1/e099869935c0ff82062155d10da705e1.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",Underworld: Awakening (2012) สงครามโค่นพันธุ์อสูร 4: กำเนิดใหม่ราชินีแวมไพร์
+https://edge-ns2.leoplayer1.com/hls/00fd3f7cd7b444f9e7a4243b3c438494/00fd3f7cd7b444f9e7a4243b3c438494.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",Underworld: Rise of the Lycans (2009) สงครามโค่นพันธุ์อสูร: ปลดแอกจอมทัพอสูร
+https://edge-ns1.leoplayer1.com/hls/982e78a7559cbc1af498748dac8f2a0a/982e78a7559cbc1af498748dac8f2a0a.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",Underworld: Evolution (2006) สงครามโค่นพันธุ์อสูร: อีโวลูชั่น
+https://edge-ns1.leoplayer1.com/hls/64f9d75e1d14e9897e8ae67d1b415e0d/64f9d75e1d14e9897e8ae67d1b415e0d.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",Underworld (2003) สงครามโค่นพันธุ์อสูร
+https://edge-ns2.leoplayer1.com/hls/cc2e7f815b4a47c4b60894c37d3695a2/cc2e7f815b4a47c4b60894c37d3695a2.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",0.0 MHZ (2019) ผีอยู่ในผม
+https://edge-ns1.leoplayer1.com/hls/87d966d337571edfd0baf6fe2f46d545/87d966d337571edfd0baf6fe2f46d545.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",EXIT (2019) ฝ่าหมอกพิษ ภารกิจรัก
+https://edge-ns1.leoplayer1.com/hls/6ccc6b821492617d81e26a691950e9d2/6ccc6b821492617d81e26a691950e9d2.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",CAST AWAY (2000) คนหลุดโลก
+https://edge-ns1.leoplayer1.com/hls/fa9c606cf0585eda94878994712a906d/fa9c606cf0585eda94878994712a906d.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD", DOOM (2005) ดูม ล่าตายมนุษย์กลายพันธุ์
+https://edge-ns1.leoplayer1.com/hls/d3878649f1404729f7d1645991853905/d3878649f1404729f7d1645991853905.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",CRAWL (2019) คลานขย้ำ
+https://edge-ns1.leoplayer1.com/hls/236f238c08d287ae8c056ae76e1d9c03/236f238c08d287ae8c056ae76e1d9c03.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",DOOM ANNIHILATION (2019) ล่าตายมนุษย์กลายพันธุ์ 2
+https://edge-ns1.leoplayer1.com/hls/44d0b00394de1329de5db77a39d60103/44d0b00394de1329de5db77a39d60103.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",STEP UP 6 YEAR OF THE DANCE (2019) สเต็ปโดนใจ หัวใจโดนเธอ 6
+https://edge-ns1.leoplayer1.com/hls/2a111009851b17287e27db29d4fa1263/2a111009851b17287e27db29d4fa1263.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",TERMINAL (2018) เธอล่อ จ้องฆ่า
+https://edge-ns1.leoplayer1.com/hls/14e8be16dfc3e49682fdd4da38b5a33a/14e8be16dfc3e49682fdd4da38b5a33a.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD", I WANT TO EAT YOUR PANCREAS (2018) เพราะหัวใจใกล้ตับอ่อน
+https://edge-ns2.leoplayer1.com/hls/c75f2e939d56f8376a86456866ff0528/c75f2e939d56f8376a86456866ff0528.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",LEGO DC: BATMAN – FAMILY MATTERS (2019) เลโก้ DC แบทแมน เรื่องของครอบครัว
+https://edge-ns1.leoplayer1.com/hls/cfa4416fa72cedf1dc7b2c4c1b92edeb/cfa4416fa72cedf1dc7b2c4c1b92edeb.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE CURSE OF SLEEPING BEAUTY (2016) คำสาปเจ้าหญิงนิทรา
+https://edge-ns1.leoplayer1.com/hls/53eb77d39cbad35870af8b09c2ecb7e9/53eb77d39cbad35870af8b09c2ecb7e9.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE TOMORROW MAN (2019) คนสำหรับวันพรุ้งนี้
+https://edge-ns1.leoplayer1.com/hls/d674345f208a14b2fc857c4cf8efd685/d674345f208a14b2fc857c4cf8efd685.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",AFTER THE RAIN (2018) หลังฝนตก คุณคิดถึงใคร
+https://edge-ns2.leoplayer1.com/hls/63f348bb734aab58dd465b4ce417299d/63f348bb734aab58dd465b4ce417299d.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",Avengement | Netflix (2019) แค้นฆาตกร
+https://edge-ns1.leoplayer1.com/hls/7e03284ac7cdcee7d0c9272c640d2650/7e03284ac7cdcee7d0c9272c640d2650.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",BERLIN, I LOVE YOU (2019) เบอร์ลิน, ไอ เลิฟ ยู
+https://edge-ns2.leoplayer1.com/hls/2584f91d320a9027cb4dc7a32c0ac38a/2584f91d320a9027cb4dc7a32c0ac38a.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",COLD BLOOD LEGACY (2019) นักฆ่าเลือดเย็น
+https://edge-ns2.leoplayer1.com/hls/5af8df08f1ea544e1fc729722b07da5c/5af8df08f1ea544e1fc729722b07da5c.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD", INSIDE MAN: MOST WANTED (2019) ปล้นข้ามโลก
+https://edge-ns2.leoplayer1.com/hls/99c213bd726669a33ae6e5b2ecf10bb4/99c213bd726669a33ae6e5b2ecf10bb4.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",WON’T YOU BE MY NEIGHBOR? (2018) คุณจะไม่เป็นเพื่อนบ้านของฉันหรือ
+https://edge-ns2.leoplayer1.com/hls/195725cf4f76bf7177e1b33b71d3930f/195725cf4f76bf7177e1b33b71d3930f.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",One Piece: Stampede (2019) วันพีซ เดอะมูฟวี่ สแตมปีด
+https://edge-ns1.leoplayer1.com/hls/39bc05c6661462446fc81a9d9799e822/39bc05c6661462446fc81a9d9799e822.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",ACTS OF VENGEANCE (2017) ฝังแค้นพยัคฆ์ระห่ำ
+https://edge-ns1.leoplayer1.com/hls/263c7838a500f21691d2b058152cf9bc/263c7838a500f21691d2b058152cf9bc.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",PERCY JACKSON 2: SEA OF MONSTERS (2013) เพอร์ซีย์ แจ็กสัน กับ อาถรรพ์ทะเลปีศาจ
+https://edge-ns2.leoplayer1.com/hls/8322e0727a6209b52fc12ffbb24a1ad7/8322e0727a6209b52fc12ffbb24a1ad7.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",PERCY JACKSON 1 & THE OLYMPIANS: THE LIGHTNING THIEF (2010) เพอร์ซีย์ แจ็กสัน กับสายฟ้าที่หายไป
+https://edge-ns1.leoplayer1.com/hls/071ebe3927008e643a71847cc4c93fc3/071ebe3927008e643a71847cc4c93fc3.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE WEDDING PARTY | NETFLIX (2016) วิวาห์สุดป่วน 1
+https://edge-ns2.leoplayer1.com/hls/1ba1309c47f4cdaa6c2aca117f29f239/1ba1309c47f4cdaa6c2aca117f29f239.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE WEDDING PARTY 2: DESTINATION DUBAI | NETFLIX (2017) วิวาห์สุดป่วน 2
+https://edge-ns1.leoplayer1.com/hls/4a75a3714b274f2e96a6d49a8d78d367/4a75a3714b274f2e96a6d49a8d78d367.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",MERRY MEN: THE REAL YORUBA DEMONS | NETFLIX (2018) หนุ่มเจ้าสำราญ
+https://edge-ns1.leoplayer1.com/hls/854cb04dc95a00d3d388c4cbc9fb2499/854cb04dc95a00d3d388c4cbc9fb2499.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD", KABIR SINGH | NETFLIX (2019) กาบีร์ ซิงห์
+https://edge-ns2.leoplayer1.com/hls/9c270af25bc30825bb0bd79cd23bf466/9c270af25bc30825bb0bd79cd23bf466.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",ROBIN HOOD (2010) จอมโจรกู้แผ่นดินเดือด
+https://edge-ns1.leoplayer1.com/hls/734ba97c5ebf21519861207790772269/734ba97c5ebf21519861207790772269.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",GLADIATOR (2000) นักรบผู้กล้าผ่าแผ่นดินทรราช
+https://edge-ns2.leoplayer1.com/hls/e03f985f1f59c2a90f5278e526685b20/e03f985f1f59c2a90f5278e526685b20.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE PRIESTS (2015) ปราบผีสิง
+https://edge-ns2.leoplayer1.com/hls/80fbd7b978318a34b4fb98e4c4b9440b/80fbd7b978318a34b4fb98e4c4b9440b.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",UNSTOPPABLE (2010) ด่วนวินาศ หยุดไม่อยู่
+https://edge-ns1.leoplayer1.com/hls/910be3b7cbb07f4272964293ae34637d/910be3b7cbb07f4272964293ae34637d.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",The Naked Director | Netflix (2019) โป๊ บ้า กล้า รวย EP.1
+https://edge-ns1.leoplayer1.com/hls/6237c57a2da2820f0bcf56b460c2e91b/6237c57a2da2820f0bcf56b460c2e91b.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",The Naked Director | Netflix (2019) โป๊ บ้า กล้า รวย EP.3
+https://edge-ns2.leoplayer1.com/hls/f6bdb43320fca7dfaeaf851d15f75529/f6bdb43320fca7dfaeaf851d15f75529.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",The Naked Director | Netflix (2019) โป๊ บ้า กล้า รวย EP.4
+https://edge-ns1.leoplayer1.com/hls/a7cc6bde459ab162d0b0c34a802de96b/a7cc6bde459ab162d0b0c34a802de96b.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",The Naked Director | Netflix (2019) โป๊ บ้า กล้า รวย EP.5
+https://edge-ns2.leoplayer1.com/hls/d5e326456b38f473e78ac77e5136f79c/d5e326456b38f473e78ac77e5136f79c.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",The Naked Director | Netflix (2019) โป๊ บ้า กล้า รวย EP.6
+https://edge-ns1.leoplayer1.com/hls/98458fba84894966654764912aa1498d/98458fba84894966654764912aa1498d.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",The Naked Director | Netflix (2019) โป๊ บ้า กล้า รวย EP.7
+https://edge-ns1.leoplayer1.com/hls/afe4cc8fca31ee8903555d05c4597e60/afe4cc8fca31ee8903555d05c4597e60.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",The Naked Director | Netflix (2019) โป๊ บ้า กล้า รวย EP.8
+https://edge-ns2.leoplayer1.com/hls/8e7896dbad4a2f41d475491ca736ad93/8e7896dbad4a2f41d475491ca736ad93.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",ที่ตรงนั้น มีฉันหรือเปล่า WHERE WE BELONG (2019)
+https://edge-ns1.leoplayer1.com/hls/5e5ebe2aa8032ae5b5ee912b498914cc/5e5ebe2aa8032ae5b5ee912b498914cc.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",BETWEEN TWO FERNS: THE MOVIE | NETFLIX (2019) บีทวีน ทู เฟิร์นส์: เดอะ มูฟวี่
+https://edge-ns2.leoplayer1.com/hls/808b19811405668505309b7e5e1804ae/808b19811405668505309b7e5e1804ae.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",MIRAI (2018) มิไร มหัศจรรย์วันสองวัย
+https://edge-ns1.leoplayer1.com/hls/9a68559b73d3823db2a813e5f9f9318e/9a68559b73d3823db2a813e5f9f9318e.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",EVELYN | NETFLIX (2018) อีฟลิน
+https://edge-ns1.leoplayer1.com/hls/c8a97a5b2b95d0e176daebdb1b637673/c8a97a5b2b95d0e176daebdb1b637673.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",RAMBO 4 (2008) แรมโบ้ 4 นักรบพันธุ์เดือด
+https://edge-ns1.leoplayer1.com/hls/6607afb810fc5a824458d9e0071559d6/6607afb810fc5a824458d9e0071559d6.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",RAMBO 3 (1988) แรมโบ้ นักรบเดนตาย 3
+https://edge-ns2.leoplayer1.com/hls/027b1aef025cd5ce77ad5fed4dc39742/027b1aef025cd5ce77ad5fed4dc39742.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",RAMBO 2 FIRST BLOOD PART II (1985) แรมโบ้ นักรบเดนตาย 2
+https://edge-ns2.leoplayer1.com/hls/d5d339dfd7a3308798615e43d5d7857d/d5d339dfd7a3308798615e43d5d7857d.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",RAMBO LAST BLOOD (2019) แรมโบ้ 5 นักรบคนสุดท้าย
+https://edge-ns2.leoplayer1.com/hls/9d58c8b27f0e8981ec69277420400234/9d58c8b27f0e8981ec69277420400234.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",FAST AND FURIOUS PRESENTS HOBBS AND SHAW (2019) เร็ว…แรงทะลุนรก ฮ็อบส์ & ชอว์
+https://edge-ns2.leoplayer1.com/hls/7b6edc9bbaec9c97fa0452f2d1b2c2fa/7b6edc9bbaec9c97fa0452f2d1b2c2fa.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",YOU ME AND DUPREE (2006) ฉัน เธอและเกลอแสบนายดูพรี
+https://edge-ns1.leoplayer1.com/hls/cffa5b099e632f94519180f593445a2d/cffa5b099e632f94519180f593445a2d.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE SUN IS ALSO A STAR (2019) เมื่อแสงดาวส่องตะวัน
+https://edge-ns1.leoplayer1.com/hls/33a99acdbe25511144e0624e87e5460f/33a99acdbe25511144e0624e87e5460f.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",TOY STORY 4 (2019) ทอย สตอรี่ ภาค 4
+https://edge-ns2.leoplayer1.com/hls/be5e5346ba1d93479f870934a0663423/be5e5346ba1d93479f870934a0663423.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",ALADDIN (2019) อะลาดิน
+https://edge-ns2.leoplayer1.com/hls/65f52c1e4cd33677786795633f1d2c49/65f52c1e4cd33677786795633f1d2c49.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",PENGUIN HIGHWAY (2018) วันหนึ่งฉันเจอเพนกวิน
+https://edge-ns1.leoplayer1.com/hls/35c818cf0b9f557bc09142314cbec1f0/35c818cf0b9f557bc09142314cbec1f0.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",DOUBTING THOMAS (2018) ศรัทธาแห่งรักจากหัวใจ
+https://edge-ns1.leoplayer1.com/hls/324350d6dd0af681b2ea0e7c48b96f01/324350d6dd0af681b2ea0e7c48b96f01.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",SHOT CALLER (2017) อหังการ์คนคุกแดนทมิฬ
+https://edge-ns1.leoplayer1.com/hls/92d7440bdbd72ea1fdbd8b4e620f0251/92d7440bdbd72ea1fdbd8b4e620f0251.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE WHOLE TRUTH (2016) ความจริงทั้งหมด
+https://edge-ns1.leoplayer1.com/hls/df34c46d5d58e189c13688d92e8e835a/df34c46d5d58e189c13688d92e8e835a.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",TAKE POINT (2018) ภารกิจลับท้านรก
+https://edge-ns2.leoplayer1.com/hls/30293701886981a97de9a2e6037b331e/30293701886981a97de9a2e6037b331e.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",EVERYDAY I LOVE YOU | NETFLIX (2015) จะวันไหน ยังไงก็รักเธอ
+https://edge-ns2.leoplayer1.com/hls/87586019c220f6e57b9f274bb27128a5/87586019c220f6e57b9f274bb27128a5.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",BILL BURR: PAPER TIGER | NETFLIX (2019) บิล เบอร์ เสือกระดาษ
+https://edge-ns2.leoplayer1.com/hls/9ab75765bc077c6d6fe6a27398ce22e8/9ab75765bc077c6d6fe6a27398ce22e8.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",ATERRADOS | NETFLIX (2017) คดีผวาซ่อนเงื่อน
+https://edge-ns1.leoplayer1.com/hls/6522358c95832dec6236c55aea456976/6522358c95832dec6236c55aea456976.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE HUMANITY BUREAU (2017) ที่ทำการ มนุษยศาสตร์
+https://edge-ns2.leoplayer1.com/hls/b1e3d211e2e9db38920fe0850fa961c6/b1e3d211e2e9db38920fe0850fa961c6.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE HAUNTING (1999) หลอน…ขนหัวลุก
+https://edge-ns1.leoplayer1.com/hls/b5bfa0ead0344d016682a6c7a2903d38/b5bfa0ead0344d016682a6c7a2903d38.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",PACIFIC HEIGHTS (1990) วิมานกระตุกขวัญ
+https://edge-ns1.leoplayer1.com/hls/d22b6fe85928f6b470f24982ab7ffbca/d22b6fe85928f6b470f24982ab7ffbca.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",MISS EVERS’ BOYS (1997) (บรรยายไทย)
+https://edge-ns2.leoplayer1.com/hls/9ef2b3a627746c10f0f40b0f19a3c260/9ef2b3a627746c10f0f40b0f19a3c260.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",TALL GIRL | NETFLIX (2019) รักยุ่งของสาวโย่ง
+https://edge-ns2.leoplayer1.com/hls/afe8411401667862251563b55a5fe2be/afe8411401667862251563b55a5fe2be.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",SPREAD (2009) เพลย์บอย..หัวใจปิ๊งรัก
+https://edge-ns1.leoplayer1.com/hls/0351976198d53b534272cfc6a40d186d/0351976198d53b534272cfc6a40d186d.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",GODZILLA AGAINST MECHAGODZILLA (2002) ก็อดซิลลา สงครามโค่นจอมอสูร
+https://edge-ns1.leoplayer1.com/hls/e72dff249a67dc76664cc450bf5eb5a2/e72dff249a67dc76664cc450bf5eb5a2.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE SHAGGY DOG (2006) คุณพ่อพันธุ์โฮ่ง
+https://edge-ns1.leoplayer1.com/hls/30e751ed2d69fda86392fab8166bd07e/30e751ed2d69fda86392fab8166bd07e.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",SHANGHAI FORTRESS | NETFLIX (2019) เซี่ยงไฮ้ ปราการมหากาฬ
+https://edge-ns2.leoplayer1.com/hls/62558355043b75a236c748c7fa8f5b6f/62558355043b75a236c748c7fa8f5b6f.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",MODEST HEROES PONOC SHORT FILMS THEATRE | NETFLIX (2018) ฮีโร่เดินดิน: ภาพยนตร์สั้นจาก STUDIO PONOC
+https://edge-ns1.leoplayer1.com/hls/bed3c570231825d0ccfaf6cf8768b711/bed3c570231825d0ccfaf6cf8768b711.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE POISON ROSE (2019) กุหลาบพิษ
+https://edge-ns1.leoplayer1.com/hls/738e2f7c23b33d996767b1c751d3caf4/738e2f7c23b33d996767b1c751d3caf4.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",OUR GODFATHER | NETFLIX (2019) เจ้าพ่อผู้โค่นมาเฟีย
+https://edge-ns1.leoplayer1.com/hls/88df03839c28e1b56db2bc9f634da1a3/88df03839c28e1b56db2bc9f634da1a3.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",KILLER HIGH (2018) นักฆ่าระดับสูง
+https://edge-ns1.leoplayer1.com/hls/56112d4505ad98b6b29ffe7594292da7/56112d4505ad98b6b29ffe7594292da7.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",ARTICLE 15 | NETFLIX (2019) มาตรา 15
+https://edge-ns1.leoplayer1.com/hls/e1c85eb915db53f48aeaa331aaf1f5c3/e1c85eb915db53f48aeaa331aaf1f5c3.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",CHILD’S PLAY (2019) คลั่งฝังหุ่น
+https://edge-ns1.leoplayer1.com/hls/79d265da31c6685f57b7caa2d1823c18/79d265da31c6685f57b7caa2d1823c18.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",JOHN WICK: CHAPTER 3 – PARABELLUM (2019) จอห์น วิค แรงกว่านรก 3
+https://edge-ns2.leoplayer1.com/hls/6550d367acd2ad792486a47af52b2db7/6550d367acd2ad792486a47af52b2db7.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",COLD PURSUIT (2019) แค้นลั่นนรก
+https://edge-ns1.leoplayer1.com/hls/b0a86e9c9977eaf25f4fc5e34adf01f9/b0a86e9c9977eaf25f4fc5e34adf01f9.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE THAW (2009) นรกเยือกแข็ง อสูรเขมือบโลก
+https://edge-ns1.leoplayer1.com/hls/01ef726ff62d1160230cb4689a18b202/01ef726ff62d1160230cb4689a18b202.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",200 POUNDS BEAUTY (2006) ฮันนะซัง สวยสั่งได้
+https://edge-ns2.leoplayer1.com/hls/a4a175b03f36968776f586f25ba53a3e/a4a175b03f36968776f586f25ba53a3e.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",FRENZY (1972) ฆาตกรรมเน็คไท
+https://edge-ns2.leoplayer1.com/hls/e38f975fd234bf4ef2bad2b648d2b002/e38f975fd234bf4ef2bad2b648d2b002.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",FLASHDANCE (1983) แฟลชแดนซ์
+https://edge-ns1.leoplayer1.com/hls/b8438ea9e07622d1b007862012aefcc8/b8438ea9e07622d1b007862012aefcc8.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",AGNELLI (2017) (บรรยายไทย)
+https://edge-ns1.leoplayer1.com/hls/453ddea7f5a097b12a6e118d786731b8/453ddea7f5a097b12a6e118d786731b8.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",JOHN MCCAIN FOR WHOM THE BELL TOLLS (2018) จอห์น แม็คเคน ผู้ที่โทรมา
+https://edge-ns2.leoplayer1.com/hls/0ed1c189caf80023f7ced5fb17981f25/0ed1c189caf80023f7ced5fb17981f25.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",YOUNG PEOPLE (1972) ไอ้หนุ่ม 3 เสือ
+https://edge-ns2.leoplayer1.com/hls/f58d44e8ab2a4b035e0df760c8267cba/f58d44e8ab2a4b035e0df760c8267cba.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",ZATOICHI AND THE ONE ARMED SWORDSMAN (1971) เดชไอ้ด้วนผจญฤทธิ์ไอ้บอด
+https://edge-ns1.leoplayer1.com/hls/7111ac2a2f5bcdc6fb58fc0308bb131b/7111ac2a2f5bcdc6fb58fc0308bb131b.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",7 DAYS TO LEAVE MY WIFE (2007) ยังไงก็รัก
+https://edge-ns2.leoplayer1.com/hls/841b9b60654ef2b5270e399a2d3dba75/841b9b60654ef2b5270e399a2d3dba75.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",MOM AND DAD (2017) คุณพ่อเชือด คุณแม่สับ!
+https://edge-ns2.leoplayer1.com/hls/28901a14455cd789a9bd5d9ca3ca512d/28901a14455cd789a9bd5d9ca3ca512d.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",BATMAN THE DARK KNIGHT (2008) แบทแมน อัศวินรัตติกาล
+https://edge-ns1.leoplayer1.com/hls/a1e61005f932acc6e089add4688f39f1/a1e61005f932acc6e089add4688f39f1.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",IT CHAPTER TWO (2019) อิท โผล่จากนรก 2
+https://edge-ns2.leoplayer1.com/hls/ed25bcdb131bc7ed43f45f11169c1a84/ed25bcdb131bc7ed43f45f11169c1a84.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",LEGO DC COMICS SUPER HEROES: AQUAMAN – RAGE OF ATLANTIS (2018) เลโก้ DC อควาแมน เจ้าสมุทร
+https://edge-ns1.leoplayer1.com/hls/0293369cf54b9e45307c143d3a7a00f2/0293369cf54b9e45307c143d3a7a00f2.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",23:59 (2011) 5 ทุ่ม 59 เตรียมตัวตาย
+https://edge-ns1.leoplayer1.com/hls/679677ddbbd323ad07360c8d072e9215/679677ddbbd323ad07360c8d072e9215.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",CATS AND PEACHTOPIA (2018) ก๊วนเหมียวหง่าว
+https://edge-ns1.leoplayer1.com/hls/a57301cb22117627f62701f01251e950/a57301cb22117627f62701f01251e950.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE UPSIDE (2017) ดิ อัพไซด์
+https://edge-ns2.leoplayer1.com/hls/599163f22590a9e768dc71defe1da3fd/599163f22590a9e768dc71defe1da3fd.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",BACKDRAFT 2 (2019) เปรวไฟกับวีรบุรุษ 2
+https://edge-ns2.leoplayer1.com/hls/1405f6fd968bb299195f4ce38a61db9c/1405f6fd968bb299195f4ce38a61db9c.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",A STAR IS BORN (2018) อะ สตาร์ อีส บอร์น
+https://edge-ns2.leoplayer1.com/hls/a0cf97f8231d2dc887cc9095da656f5d/a0cf97f8231d2dc887cc9095da656f5d.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE DEAD DON’T DIE (2019) วันซอมบี้ป่วนโลก
+https://edge-ns1.leoplayer1.com/hls/1f6bc54981eaeb814511e021c1278cbd/1f6bc54981eaeb814511e021c1278cbd.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",BACKDRAFT 2 (2019) เปรวไฟกับวีรบุรุษ 2
+https://edge-ns2.leoplayer1.com/hls/1405f6fd968bb299195f4ce38a61db9c/1405f6fd968bb299195f4ce38a61db9c.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",OUT OF SIGHT (1998) ปล้นรัก หักด่านเอฟบีไอ
+https://edge-ns2.leoplayer1.com/hls/7a11d6556b9a07719c30fd56e20e0bd9/7a11d6556b9a07719c30fd56e20e0bd9.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE DARK CRYSTAL: AGE OF RESISTANCE | NETFLIX เดอะ ดาร์ก คริสตัล: กำเนิดกบฏกล้า EP1
+https://edge-ns1.leoplayer1.com/hls/0602749d9e3049cbb15ca41ed90edb65/0602749d9e3049cbb15ca41ed90edb65.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE DARK CRYSTAL: AGE OF RESISTANCE | NETFLIX เดอะ ดาร์ก คริสตัล: กำเนิดกบฏกล้า EP2
+https://edge-ns1.leoplayer1.com/hls/6bf51230e1f87cd3d4f242a1e65fedfc/6bf51230e1f87cd3d4f242a1e65fedfc.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE DARK CRYSTAL: AGE OF RESISTANCE | NETFLIX เดอะ ดาร์ก คริสตัล: กำเนิดกบฏกล้า EP3
+https://edge-ns1.leoplayer1.com/hls/d60d235ab6b03493283cc7868c71a085/d60d235ab6b03493283cc7868c71a085.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE DARK CRYSTAL: AGE OF RESISTANCE | NETFLIX เดอะ ดาร์ก คริสตัล: กำเนิดกบฏกล้า EP4
+https://edge-ns2.leoplayer1.com/hls/507da4f523cd420cd3f776af3f955292/507da4f523cd420cd3f776af3f955292.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE DARK CRYSTAL: AGE OF RESISTANCE | NETFLIX เดอะ ดาร์ก คริสตัล: กำเนิดกบฏกล้า EP5
+https://edge-ns1.leoplayer1.com/hls/1f12f197a08815969b4082173c855b4f/1f12f197a08815969b4082173c855b4f.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE DARK CRYSTAL: AGE OF RESISTANCE | NETFLIX เดอะ ดาร์ก คริสตัล: กำเนิดกบฏกล้า EP6
+https://edge-ns2.leoplayer1.com/hls/f395d376737ca20232bd3966e57d7b2f/f395d376737ca20232bd3966e57d7b2f.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE DARK CRYSTAL: AGE OF RESISTANCE | NETFLIX เดอะ ดาร์ก คริสตัล: กำเนิดกบฏกล้า EP7
+https://edge-ns1.leoplayer1.com/hls/50369641664848ec40a660d221fd7e21/50369641664848ec40a660d221fd7e21.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE DARK CRYSTAL: AGE OF RESISTANCE | NETFLIX เดอะ ดาร์ก คริสตัล: กำเนิดกบฏกล้า EP8
+https://edge-ns1.leoplayer1.com/hls/314a3c2ab705c15da7262fabbde401f4/314a3c2ab705c15da7262fabbde401f4.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE DARK CRYSTAL: AGE OF RESISTANCE | NETFLIX เดอะ ดาร์ก คริสตัล: กำเนิดกบฏกล้า EP9
+https://edge-ns1.leoplayer1.com/hls/6f105e79114c15c77e49b1a65b880553/6f105e79114c15c77e49b1a65b880553.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE DARK CRYSTAL: AGE OF RESISTANCE | NETFLIX เดอะ ดาร์ก คริสตัล: กำเนิดกบฏกล้า EP10
+https://edge-ns1.leoplayer1.com/hls/6689ac687814a5220b886c7243151d63/6689ac687814a5220b886c7243151d63.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",WHERE THE WILD THINGS ARE (2009) ดินแดนแห่งเจ้าตัวร้าย
+https://edge-ns2.leoplayer1.com/hls/aa0d8941eadcf9ec560f065df05bf361/aa0d8941eadcf9ec560f065df05bf361.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",X-MEN: DARK PHOENIX (2019) X-เม็น ดาร์ก ฟีนิกซ์
+https://edge-ns1.leoplayer1.com/hls/0142cf6164e984a2122fcee6a32578af/0142cf6164e984a2122fcee6a32578af.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD", THE DIVINE FURY (2019) มือนรกพระเจ้าคลั่ง
+https://edge-ns1.leoplayer1.com/hls/0e25f4cab45f124ed09c5f72d1c30d4e/0e25f4cab45f124ed09c5f72d1c30d4e.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE IMPOSTER (1975) ไอ้หนุ่ม 7 หน้า
+https://edge-ns2.leoplayer1.com/hls/527a3330033fc3d383dcab8cc53f9219/527a3330033fc3d383dcab8cc53f9219.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE IRON BUDDHA (1970) ฤทธิ์ดาบมังกรเหล็ก
+https://edge-ns1.leoplayer1.com/hls/dd03357904e1ad49fb5ec5e43f8f1f8d/dd03357904e1ad49fb5ec5e43f8f1f8d.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",HELLBOY (2019) เฮลล์บอย 3
+https://edge-ns1.leoplayer1.com/hls/bf64b7cf9bd48d3fbc448d3226ec1edb/bf64b7cf9bd48d3fbc448d3226ec1edb.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE FINEST HOURS (2016) ชั่วโมงระทึกฝ่าวิกฤตทะเลเดือด
+https://edge-ns2.leoplayer1.com/hls/263df65deac7a6c4ad9a221bc40b929b/263df65deac7a6c4ad9a221bc40b929b.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",ALL OF YOU (2017) รักเธอเท่าหัวใจ
+https://edge-ns2.leoplayer1.com/hls/ac148f2fe988a584eaef7a4726c3dc28/ac148f2fe988a584eaef7a4726c3dc28.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",CAN’T HELP FALLING IN LOVE (2017) ช่วยไม่ได้ หัวใจอยากจะรัก
+https://edge-ns1.leoplayer1.com/hls/a12251703830477fe0846c8aca1ff354/a12251703830477fe0846c8aca1ff354.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE GIRL ALLERGIC TO WI-FI (2018) รักแท้แพ้ WI-FI
+https://edge-ns1.leoplayer1.com/hls/1a09cd6c4b057742b58addc36bebb634/1a09cd6c4b057742b58addc36bebb634.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE UNAUTHORIZED BASH BROTHERS EXPERIENCE (2019) เดอะ โลนลี่ ไอส์แลนด์ ภูมิใจเสนอ: ส่องแบช บราเธอร์ส
+https://edge-ns2.leoplayer1.com/hls/3470bd77f21a0c35213d8e117c458bf7/3470bd77f21a0c35213d8e117c458bf7.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",KING EAGLE (1970) จอมอินทรีบุกเดี่ยว
+https://edge-ns2.leoplayer1.com/hls/1e6e2c30f504a383f05c1660cacf2496/1e6e2c30f504a383f05c1660cacf2496.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",LOST FOR LOVE OF A CHINESE COURTESAN (1985) รักต้องเชือด
+https://edge-ns1.leoplayer1.com/hls/37684b4c6d6f9c2d40803178a02026a2/37684b4c6d6f9c2d40803178a02026a2.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",NEW TALES OF THE FLYING FOX (1984) จิ้งจอกภูเขาหิมะ
+https://edge-ns1.leoplayer1.com/hls/16014e1d8eca6eb9ead5ad84737879dd/16014e1d8eca6eb9ead5ad84737879dd.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",THE AGE OF ADALINE (2015) หยุดเวลา รอปาฏิหาริย์รัก
+https://edge-ns2.leoplayer1.com/hls/aa438628d8a13d8bcdc4d11770f26e42/aa438628d8a13d8bcdc4d11770f26e42.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",HANCOCK (2008) แฮนค็อค ฮีโร่ขวางนรก
+https://edge-ns1.leoplayer1.com/hls/cb94aaa7b6792fc8923347697bbbcb9c/cb94aaa7b6792fc8923347697bbbcb9c.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",DELIRIUM (2018) ภาวะเพ้อคลั่ง
+https://edge-ns1.leoplayer1.com/hls/9ff0789a003c0f526e7ebcd6de511bba/9ff0789a003c0f526e7ebcd6de511bba.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD", CARNIVAL ROW SEASON 1 (2019) EP1
+https://edge-ns2.leoplayer1.com/hls/b91a5cce09689fd2abb5f275fea56de3/b91a5cce09689fd2abb5f275fea56de3.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD", CARNIVAL ROW SEASON 1 (2019) EP2
+https://edge-ns2.leoplayer1.com/hls/9003e4734890544837cad8e055b243a1/9003e4734890544837cad8e055b243a1.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD", CARNIVAL ROW SEASON 1 (2019) EP3
+https://edge-ns1.leoplayer1.com/hls/3c2eb6be4465f47de84abd41d1925607/3c2eb6be4465f47de84abd41d1925607.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD", CARNIVAL ROW SEASON 1 (2019) EP4
+https://edge-ns1.leoplayer1.com/hls/cb459721bd92614ea873a1dcf6c14498/cb459721bd92614ea873a1dcf6c14498.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD", CARNIVAL ROW SEASON 1 (2019) EP5
+https://edge-ns2.leoplayer1.com/hls/e2ccc31db797fc4f1ae00f1f88427e0c/e2ccc31db797fc4f1ae00f1f88427e0c.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD", CARNIVAL ROW SEASON 1 (2019) EP6
+https://edge-ns2.leoplayer1.com/hls/f9b10d25deca049b6a64259e97a4eb66/f9b10d25deca049b6a64259e97a4eb66.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD", CARNIVAL ROW SEASON 1 (2019) EP7
+https://edge-ns2.leoplayer1.com/hls/c005d2fbf4ff0385730a81dd102d73ca/c005d2fbf4ff0385730a81dd102d73ca.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD", CARNIVAL ROW SEASON 1 (2019) EP8
+https://edge-ns1.leoplayer1.com/hls/fe34ce61548d8897cdfbc52eb4cd2351/fe34ce61548d8897cdfbc52eb4cd2351.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",BUMBLEBEE (2018) บัมเบิ้ลบี
+https://edge-ns1.leoplayer1.com/hls/3a835fc864ace5363d947d1ca709aff1/3a835fc864ace5363d947d1ca709aff1.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",โกสต์ อิน เดอะ เชลล์
+https://edge-ns1.leoplayer1.com/hls/b91d7da3b8895d411bf9b27d67b84667/b91d7da3b8895d411bf9b27d67b84667.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",ALL IS TRUE (2018) ทุกสิ่งล้วนจริงแท้
+https://edge-ns1.leoplayer1.com/hls/dff1995e2cfbe507d0bafa146f451f2f/dff1995e2cfbe507d0bafa146f451f2f.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",FALLING INN LOVE (2019) รับเหมาซ่อมรัก
+https://edge-ns1.leoplayer1.com/hls/5e231074078ba31a8ea3a87452d9ba99/5e231074078ba31a8ea3a87452d9ba99.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",TRAVIS SCOTT LOOK MOM I CAN FLY (2019) ทราวิส สก็อตต์
+https://edge-ns1.leoplayer1.com/hls/95b3a845200640ffdb52cd2669c7c034/95b3a845200640ffdb52cd2669c7c034.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",47 METERS DOWN: UNCAGED (2019) 47 ดิ่งลึกสุดนรก
+https://edge-ns2.leoplayer1.com/hls/f190c9162c55f08325d37012164d4d70/f190c9162c55f08325d37012164d4d70.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD", THE MOVIE (2019) เพลย์โมบิล เดอะ มูฟวี่
+https://edge-ns2.leoplayer1.com/hls/66dba71e76a323afabfd72c976151e54/66dba71e76a323afabfd72c976151e54.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",CHINA SALESMAN (2018) คู่ระห่ำ เดือดกระแทกเดือด
+https://edge-ns2.leoplayer1.com/hls/f0f08c3af903677731710ec18bc6499d/f0f08c3af903677731710ec18bc6499d.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD",เกมส์โชว์ตาย
+https://edge-ns2.leoplayer1.com/hls/c6923e999ababc3dcf5187944edfc069/c6923e999ababc3dcf5187944edfc069.playlist.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1vY7BkFDdL._SY445_.jpg",King Arthur
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_King-arthur-legend-of-the-sword-2017.4K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",รหัสกระสุนเจาะกะโหลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_13-thirteen-2010-4K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",คิง อาร์เธอร์ ตำนานแห่งดาบราชันย์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_King-arthur-legend-of-the-sword-2017.4K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",แบทเทิลชิป ยุทธการเรือรบพิฆาตเอเลี่ยน
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Battleship%204K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",อาชญากลปล้นโลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Now%20You%20See%20Me%204K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",จอมเวทย์มหากาฬ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Doctor%20Strange%202016%204k.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ทีมเงาอัจฉริยะ
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Hidden%20Figures.4K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",The Fast and the Furious 1 เร็วแรงทะลุนรก 1
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_The.Fast.And.The.Furious.2001.TH.4K.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD", 2 fast 2 furious เร็ว คูณ 2 ดับเบิ้ล แรง ท้า นรก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_The.Fast.And.The.Furious.2.TH.4K.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",เร็ว..แรงทะลุนรก ซิ่งแหกพิกัดโตเกียว
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_The.Fast.And.The.Furious.3.TH.4K.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",เร็ว..แรงทะลุนรก 4: ยกทีมซิ่ง แรงทะลุไมล์
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_The.Fast.And.The.Furious.4.TH.4K.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",เร็ว..แรงทะลุนรก 8
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_The.fate.of.the.furious.2017.4K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ทรานส์ฟอร์มเมอร์ส1
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Transformers.1.2007.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ทรานส์ฟอร์มเมอร์ส 2
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Transformers.revenge.of.the.fallen.2009.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ทรานส์ฟอร์มเมอร์ส 3
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Transformers.dark.of.the.moon.2011.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ทรานส์ฟอร์มเมอร์ส4
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Transformers.age.of.Extinction.2014.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ทรานส์ฟอร์มเมอร์ส 5
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Transformers.The.Last.Knight.2017.4K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",วอร์คราฟต์: กำเนิดศึกสองพิภพ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Warcraft.2016.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",X-Men: Apocalypse
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_X-Men.Apocalypse.2016.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD", จี ไอ โจ ภาค 2 สงคราม ระห่ำ แค้น ค อบ ร้า ทมิฬ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_4K_G.I.Joe.2.Retaliation.Extended.Cut.TH.4K.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",สงครามเทวดา
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Gods.Of.Egypt.2016.4k.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",รวมพันธุ์นักสู้พิทักษ์จักรวาล
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Guardians.Of.The.Galaxy.2014.4k.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ฮิทแมน: สายลับ 47
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Hitman.agent.47.2015.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",สงครามใหม่วันบดโลก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Independence.Day.Resurgence.2016.4K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD", เจสัน บอร์น ยอดจารชนคนอันตราย
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Jason.bourne.2016.4K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",จอห์นวิค แรงกว่านรก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_John.wick.4k.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",จูราสสิค เวิลด์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Jurassic.World.2015.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ทะลุเวลา อึดล่าอึด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Looper.2012.4k.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",แมด แม็กซ์: ถนนโลกันตร์
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Mad.Max.Fury.Road.2015.4K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",เมซ รันเนอร์ สมรภูมิมอดไหม้
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Maze.Runner.The.Scorch.Trials.2015.4K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",oblivion อุบัติ การณ์ โลก ลืม
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Oblivion.2013.4K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",คู่โดยสารพันล้านไมล์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Passengers.2016.4K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",San Andreas มหาวินาศแผ่นดินแยก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_San.Andreas.2015.4K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",เต่านินจา 2
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Teenage.mutant.ninja.turtles.out.of.the.shadows.2016.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",5th wave อุบัติ การณ์ ล้างโลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_The.5.th.Wave.2016.4K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ตำนานแห่งทาร์ซาน
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_The.legend.of.tarzan.2016.2160p.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",เดอะ แมน ฟรอม อั.ง.เ.คิ.ล. คู่ดุไร้ปรานี
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_The.Man.From.U.N.C.L.E.2015.4k.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",เดอะ มาร์เชียน กู้ตาย 140 ล้านไมล์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_The.Martian.2016.4K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",The Nice Guys กายส์...นายแสบมาก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_The.nice.guys.2016.4k.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",Arrival ผู้มาเยือน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Arrival.2016.4K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",สวยสังหาร
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Salt.2010.4K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD", bad boy คู่หู ขวาง นรก 2
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Bad.boys.ii.2003.4k.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",โลแกน เดอะ วูล์ฟเวอรีน
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Logan.2017.4K.TH.1.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ใหญ่・ปล้น・ฟัด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Railroad.Tigers.2016.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",เอ็กซ์ เม็น ศึกมนุษย์พลังเหนือโลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_X-men.Days.Of.Future.Past.2014.4K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",xXx ทลายแผนยึดโลก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Xxx.Return.Of.Xander.Cage.4k.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",อัสแซสซินส์ครีด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Assassins.Creed.4K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",avatar อวตาร
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Avatar.Extended.Edition.2009.TH.4K.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",แบทแมน ปะทะ ซูเปอร์แมน แสงอรุณแห่งยุติธรรม
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Batman.V.Superman.Dawn.Of.Justice.2016.4K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",วันยึดโลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Battle.Los.Angeles.2011.4K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",captain america civil war
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Captain.America.Civil.War.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ฝ่าวิบัติเพลิงนรก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Deepwater.horizon.2016.4k.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",สงครามพลิกจักรวาล
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_4K_Enders.Game.2013.4K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",สัตว์มหัศจรรย์: อาชญากรรมของกรินเดลวัลด์
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_4K_Fantastic.Beasts.And.Where.To.Find.Them.2016.4K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",แปซิฟิค ริม ปฏิวัติพลิกโลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Pacific.rim.uprising.2018.FullHD.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ยุทธภูมิทะเลแดง
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Zoom_Operation%20Red%20Sea%202018.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",คนกล้าไฟนรก
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Only.the.brave.2017.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ไลฟ์การ์ดฮอตพิทักษ์หาด
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Baywatch.2017.FullHD.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",โคตร ยาม อันตราย
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Security.2017.FullHD.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",เกมดูดโลก บุกป่ามหัศจรรย์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Jumanji.Welcome.to.the.Jungle.2017.FullHD.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",Knock Knock ล่อมมาเชือด
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Zoom_Knock.knock.2015.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",Retribution พลิกเส้นตาย
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Zoom_Retribution.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",เดอะ เกรท วอลล์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_The.great.wall.2016.TH.6500.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",007 พยัคฆ์ร้ายเดิมพันระห่ำโลก
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Inter_James.Bond.007.Casino.Royale.2006.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD"tvg-logo="https://www.hd2liveplus.com/uploads/categories/5474.jpg",ฝ่าวิกฤติ 12 รอบระห่ำนรก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_12.Rounds.1.2009.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",2035 ข้ามเวลากู้โลก
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_2035.The.Forbidden.Dimensions.TH.MP4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",22 นัด ยมบาลล้างยมบาล
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Inter_22.Bullet.2010.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",Act Of Valor หน่วยพิฆาตระห่ำกู้โลก
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Inter_Act.Of.Valor.2012.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",โคตรคนปล้นระห่ำเมือง
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Inter_American.Heist.2014.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",แผนระห่ำปล้นทะลุเกราะ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Armored.2009.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ภารกิจดุ กุมชะตาโลก
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Inter_Babylon.a.d.2008.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",คู่เดือด...แสบเกินพิกัด
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Bad.Company.2002.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",เกียรติยศคนโฉดถล่มเมืองโหด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Bad.Lieutenant.Port.of.Call.New.Orleans.2009.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ยุทธการฝ่ารหัสทมิฬ
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Inter_Black.Hawk.Down.2001.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",เหาะทะลุฟ้า ซิ่งมหาประลัย
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Black.lightning.2009.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",บลิทซ์ ล่าโคตรคลั่งล้าง สน.
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Blitz.2011.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ส้ม ผัก เสี่ยน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_SOM.PAK.SIAN.2017.MP4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",สาระแน เลิฟยูววว
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_Saranair-Love%20You.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",Z Storm คนคมโค่นพายุ
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_Z.storm.2014.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",มังกรหนุ่มผยองเดช
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Call.of.heroes.2016.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",เชือด เดือด ระอุ 2017
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Operation.mekong.2016.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ไซอิ๋ว 2017 คนเล็กอิทธิฤทธิ์ใหญ่
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_HD_Journey.to.the.west.the.demons.strike.back.2017.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",โยคะสู้ฟัด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_HD_Kung.fu.yoga.2017.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",วานรคู่ฟัด
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_Monkey.Twins.2016.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ก็อดซิลล่า: รีเซอร์เจนซ์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Shin.Godzilla.2016.TH.MP4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",คน ล่า ฅน
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_HD_the.age.of.shadows.2016.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ยากูซ่า ปะทะ แวมไพร์
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Yakuza.apocalypse.2015.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ฟ้าใส ใจชื่นบาน
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_Blue.Sky.of.Love.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ใหญ่พลิกแผ่นดินฟัด
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_Little.Big.Soldier.2010.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",แม่เบี้ย
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_Maebia.2015.Uncut.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",หวงเฟยหง พยัคฆ์ผงาดวีรบุรุษกังฟู
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_Rise.of.the.legend.2014.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",เท่ง โหน่ง จีวรบิน
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_Teng.Nong.jiworn.bin.2011.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",โจโฉ
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_The.Assassins.2012.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ล่าทะลุศตวรรษ
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_The.Iceman.2014.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",เจ้าพ่อเซี่ยงไฮ้คนสุดท้าย
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_The.last.tycoon.2012.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",เงือกสาว ปัง ปัง
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_Mermaid.2016.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ไซอิ๋ว 2 ตอน ศึกราชาวานรพิชิตมาร
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Asia_The.monkey.2.2016.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",เดชนางพญาผมขาว
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_The.White.Haired.Witch.Of.Lunar.Kingdom.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",8 ดาบทรมาน 6 ดาบสังหาร
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_14.blades.2010.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",1911 ใหญ่ผ่าใหญ่
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_1911.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",เชือดระอุ ทะลุองศา
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_-197C.Murder.2013.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",เพชฌฆาต ทะเลทราย
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_7.Assassins.2013.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",มหาบุรุษ กู้แผ่นดิน
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_A.Batter.Of.Wits.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ผู้หญิงข้าใครอย่าแตะ 1
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_A.Moment.Of.Romance.1.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ผู้หญิงข้าใครอย่าแตะ 2
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_A.Moment.Of.Romance.2.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ผู้หญิงข้าใครอย่าแตะ 3
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_A.Moment.Of.Romance.3.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",พยัคฆ์ย่ำมังกรโหด
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Asia_A.War.Named.Desire.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",จอมโจรหัวใจไม่ลวงรัก
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_A.World.Without.Thieves.2005.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",ศึกทะยานฟ้า กวดวิชาถล่มมาร
+http://139.59.240.80:1935/HD2dov/_definst_/Mdc/Movie_Asia_Arahan.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD", สงครามธนูพิฆาต
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Asia_Arrow.the.ultimate.weapon.2011.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",12 Rounds
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_12.Rounds.1.2009.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",22 Bullets
+http://188.166.178.114:2200/HD2dov/_definst_/Mdc/Movie_Inter_22.Bullet.2010.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",Oblivion อุบัติการณ์โลกลืม
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Oblivion.2013.4K.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",Gods of Egypt
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_Gods.Of.Egypt.2016.4k.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",security โคตรยาม อันตราย
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_HD_Security.2017.FullHD.TH.mp4/index.m3u8
+#EXTINF:-1 group-title="หนัง HD",อิท โผล่จากนรก2
+http://43.255.241.165:1935/farang/It-Chapter-Two-TH.mp4/media_w94842326.m3u8?
+#EXTINF:-1 group-title="หนัง HD",สิ้น3ต่อน
+http://43.255.241.165:1935/thai/Could-Be-Him-Th.mp4/media_w766480842.m3u8?
+#EXTINF:-1 group-title="หนัง HD",Inter_Destination.Wedding
+http://139.59.240.80:1935/HD2vod/_definst_/Mdc2/Movie_Inter_Destination.Wedding.2018.TH.mp4/media.m3u8
+#EXTINF:-1 group-title="หนัง HD",มันอยู่ในผม
+http://43.255.241.165:1935/asia/0-0-MHz-Zoom.mp4/media.m3u8
+#EXTINF:-1 group-title="หนัง HD",CONTAGION(2011)สัมผัสล้างโลก
+https://p2p_sv2.livedoomovie.com/hls/0475e41ee2fc78f00da8c1ea7e09a231/0475e41ee2fc78f00da8c1ea7e09a231.playlist.m3u8?
+#EXTINF:-1 group-title="หนัง HD",6 Undergroud (2019)6 ลับ ดับ โหด
+http://188.166.178.114:2200/HD2vod/_definst_/Mdc2/Movie_Inter_6.Underground.2019.TH.mp4/media_w315512723.m3u8?
 
 
 #EXTINF:-1 group-title="หนัง ไทย "tvg-logo="https://iptv4k.tv/images/movie/IDFNYizGOSfYX1PzBZwdy9LiSjsjmu6IqQciL9G5EiJPVXVXjgGcQ.jpg",ภารกิจศพป่วน The Dead Dumpster (2019)
 https://cdn5.cdn9x.com/2r5ic9sn/1080p.m3u8
-
 #EXTINF:-1 group-title="หนัง ไทย "tvg-logo="https://doomovie.online/wp-content/uploads/2019/08/1965.jpg",สายบู๊ ฟัด จัด หนัก Fist of Stardom (2019)
 https://cdn4.cdn9x.com/kj3u6st4/1080p.m3u8
-
 #EXTINF:-1 group-title="หนัง ไทย "tvg-logo="https://images.u-playtv.com/images/vod/thumbs/r9ve3mrbpq9b83ncbrn6v4mxsvo750kw9fbd22prtz322qfei3kd77b020780s4a.png",พี่นาค Pee Nak (2019)
 https://cdn4.cdn9x.com/2r4g4r19/1080p.m3u8
-
 #EXTINF:-1 group-title="หนัง ไทย "tvg-logo="https://hdplaypic.dynns.com/assets/20190617184222509674626.jpg",แสงกระสือ (2019)
 https://cdn4.cdn9x.com/bd1p4gvb/1080p.m3u8
-
 #EXTINF:-1 group-title="หนัง ไทย "tvg-logo="http://hdplaypic.dynns.com/assets/20190303015006527195188.jpg",ฮักแพง (2018)
 https://cdn5.cdn9x.com/psskjlp1/1080p.m3u8
-
 #EXTINF:-1 group-title="หนัง ไทย "tvg-logo="https://images.u-playtv.com/images/vod/thumbs/uixvda25akzd97g4mwzk9lmyuuvbwmsr4pnizpnaanoku4pg1p1abn95i4gfq86v.png",หอแต๋วแตก แหกต่อไม่รอแล้วนะ Oh My Ghost 6 (2018)
 https://cdn4.cdn9x.com/lmcam9k7/720p.m3u8
-
 #EXTINF:-1 group-title="หนัง ไทย "tvg-logo="https://images.u-playtv.com/images/vod/thumbs/72hyte8eyxdj79eiqs27jonkkftzcckje2h8hqmgozzv9de06g7p5vapa3pmg96u.png",รักแท้…แพ้แรงดึงดูด Gravity of Love (2018)
 https://cdn2.cdn9x.com/c5d3r8nq/720p.m3u8
-
 #EXTINF:-1 group-title="หนัง ไทย "tvg-logo="http://hdplaypic.dynns.com/assets/20190721133926968628810.jpg",นาคี ภาค2 (2018) 
 https://cdn5.cdn9x.com/bi5551v9/720p.m3u8
-
 #EXTINF:-1 group-title="หนัง ไทย "tvg-logo="https://images.u-playtv.com/images/vod/thumbs/6g967i349r8htgfun0jnwsyu74d40uh7ardhahlj8t129hwxhgkd8j8fnmjog0vr.png",นารถ Ghost Wife (2018)
 https://cdn5.cdn9x.com/uq1qln3a/1080p.m3u8
-
 #EXTINF:-1 group-title="หนัง ไทย "tvg-logo="https://doomovie.online/wp-content/uploads/2019/08/1676-3.jpg",ส่อง ส่ง ผี (The Presence) (2018)
 https://cdn4.cdn9x.com/qlrgjp31/1080p.m3u8
-
 #EXTINF:-1 group-title="หนัง ไทย "tvg-logo="http://hdplaypic.dynns.com/assets/20190622133400471715869.jpg",สิงสู่ Reside (2018)
 https://cdn4.cdn9x.com/20i6tbbc/1080p.m3u8
-
 #EXTINF:-1 group-title="หนัง ไทย "tvg-logo="https://images.u-playtv.com/images/vod/thumbs/vnf7cys1bnryrewpxm3f09xow3qb92o5p3c2253dsubk98a7vdmwnkkjoavxdj33.png",ไทบ้านเดอะซีรีส์ 2.1
 https://cdn4.cdn9x.com/aff02nui/1080p.m3u8
-
 #EXTINF:-1 group-title="หนัง ไทย "tvg-logo="https://images.u-playtv.com/images/vod/thumbs/yg14a5i24c3806d02y1sg71f9bck8357k7bucuxg60p76389291ig2xqe9amdgty.png",ไทบ้านเดอะซีรีส์ 2.2 Thi-Baan The Series 2.2 (2018)
 https://cdn5.cdn9x.com/pt6chsu6/1080p.m3u8
-
 #EXTINF:-1 group-title="หนัง ไทย "tvg-logo="https://images.u-playtv.com/images/vod/thumbs/w5kf6h451gg9vyh4wem4rsyhmq5e4fx1khhrylx02e9xdr196oexhcf33ki80f9k.png",400 นักรบขุนรองปลัดชู The 400 Bravers (2018)
 https://cdn2.cdn9x.com/srupn9uh/1080p.m3u8
-
 #EXTINF:-1 group-title="หนัง ไทย "tvg-logo="http://hdplaypic.dynns.com/assets/201810251452401262972683.jpg",ตุ๊ดตู่กู้ชาติ Toot Too Ku Chart (2018)
 https://cdn2.cdn9x.com/4lhh2uar/1080p.m3u8
-
 #EXTINF:-1 group-title="หนัง ไทย "tvg-logo="https://doomovie.online/wp-content/uploads/2019/07/988.jpg",ตี 3 อาฟเตอร์ช็อก 3 AM Aftershock (2018)
 https://cdn2.cdn9x.com/hqvnkok9/1080p.m3u8
-
 #EXTINF:-1 group-title="หนัง ไทย "tvg-logo="https://images.u-playtv.com/images/vod/thumbs/q642c2mmj3y7c0vjzkpx9rabv53njfqamvdyyzlh3jofjkzi4ogegqpbvtyf8pqu.png",น้อง.พี่.ที่รัก Brother Of The Year (2018)
 https://cdn4.cdn9x.com/ssatia5t/720p.m3u8
-
 #EXTINF:-1 group-title="หนัง ไทย "tvg-logo="https://hdplaypic.dynns.com/assets/20190109161526974959806.jpg",มะลิลา Malila: The Farewell Flower (2018)
 https://cdn2.cdn9x.com/47qqu2v8/1080p.m3u8
-
 #EXTINF:-1 group-title="หนัง ไทย "tvg-logo="https://images.u-playtv.com/images/vod/thumbs/mfhia1qz7rgili9uuy0u2xan0bztzs1m7i4hkvhrmxa8gk2aj35l1f82q8vq0wc8.png",ผู้บ่าวไทบ้าน 3: หมาน แอนด์ เดอะ คำผาน Poo Baow Tai Ban 3 (2018)
 https://cdn2.cdn9x.com/8og74qqs/1080p.m3u8
-
 #EXTINF:-1 group-title="หนัง ไทย "tvg-logo="https://images.u-playtv.com/images/vod/thumbs/mfhia1qz7rgili9uuy0u2xan0bztzs1m7i4hkvhrmxa8gk2aj35l1f82q8vq0wc8.png",ขุนพันธ์ ภาค2 Khun Phan 2 (2018)
 https://cdn2.cdn9x.com/m2hfgnkr/1080p.m3u8
-
 #EXTINF:-1 group-title="หนัง ไทย "tvg-logo="https://images.u-playtv.com/images/vod/thumbs/az4uzidcn5tj0fnp7aax925xiziyieftekne31qr6ka6zyw6964i99gs8zrrd7kr.png",ปาฏิหาริย์แก้วนาคราช The Miracle of Naga Gem (2018)
 https://cdn2.cdn9x.com/90p10nrr/1080p.m3u8
-
 #EXTINF:-1 group-title="หนัง ไทย "tvg-logo="https://images.u-playtv.com/images/vod/thumbs/qjfs05tv7wxziet6zc0cs3iwoirp177srmkrsdnzakytys0x50ax3susamictp5k.png",นรก 6 เมตร The Pool (2018)
 https://cdn5.cdn9x.com/22ljkbmb/720p.m3u8
-
 #EXTINF:-1 group-title="หนัง ไทย "tvg-logo="https://images.u-playtv.com/images/vod/thumbs/lhesk5beh0xodg49caarwis5nx0ky6ejntb8ymmfnk4018adjk4f3xlqumbssqbg.png",หลวงพี่แจ๊ส 5G Luang Phee Jazz 5G (2018)
 https://cdn4.cdn9x.com/0l35sma7/1080p.m3u8
-
 #EXTINF:-1 group-title="หนัง ไทย "tvg-logo="https://images.u-playtv.com/images/vod/thumbs/276ezg35lw1n91avklaspa9fx5o9lk6osc3rs6xe3z1c0c7lxientn3qtr0fc634.png",เรารักกัน จันทร์-อาทิตย์ 7 Days (2018)
 https://cdn2.cdn9x.com/lq1v0rj/720p.m3u8
-
 #EXTINF:-1 group-title="หนัง ไทย "tvg-logo="https://images.u-playtv.com/images/vod/thumbs/5fu87773iilid0rhupf4h2k2ouvekbpqqjzyr629pns2nkki9znr27tr2o5nzvdq.png",ไบค์แมน​ ศักรินทร์ตูดหมึก (2018)
 https://cdn2.cdn9x.com/l8mejr5o/1080p.m3u8
-
-#EXTINF:-1 group-title="หนังการ์ตูน "tvg-logo="https://movie2uhd.com/wp-content/uploads/2019/12/Trouble.jpg",Trouble ตูบทรอเบิล ไฮโซจรจัด (2019)
-https://cdn5.cdn9x.com/p8802kjo/1080p.m3u8
-
-#EXTINF:-1 group-title="หนังการ์ตูน "tvg-logo="https://movie2uhd.com/wp-content/uploads/2019/12/Angrybird.jpg",The Angry Birds Movie 2 แอ็งกรี เบิร์ดส เดอะ มูวี่ 2 (2019)
-https://cdn5.cdn9x.com/6s6gii2u/1080p.m3u8
